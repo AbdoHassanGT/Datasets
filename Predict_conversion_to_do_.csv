@@ -1,0 +1,2001 @@
+user_id,device,user_type,country,traffic_source,time_on _site,n_pages_visited,added,bought
+10001,Desktop,New,United Kingdom,Search,113,2,No,No
+10002,Mobile,Returning,Other,Discovery,182,1,No,No
+10003,Desktop,Returning,Germany,Discovery,50,2,No,No
+10004,Desktop,Returning,Other,Search,159,0,No,No
+10005,Desktop,New,Netherlands,Search,119,8,No,No
+10006,Mobile,Returning,United Kingdom,Direct,6,5,No,No
+10007,Mobile,New,Netherlands,Direct,39,0,No,No
+10008,Desktop,Returning,Germany,Search,3,5,Yes,No
+10009,Desktop,Returning,United Kingdom,Search,153,0,No,No
+10010,Mobile,Returning,Netherlands,Direct,582,3,No,No
+10011,Desktop,Returning,Netherlands,Discovery,2,4,No,No
+10012,Mobile,Returning,Germany,Direct,280,0,No,No
+10013,Mobile,Returning,Netherlands,Search,340,1,No,No
+10014,Desktop,Returning,United Kingdom,Direct,46,2,No,No
+10015,Mobile,New,United Kingdom,Direct,71,1,No,No
+10016,Desktop,Returning,Other,Search,12,0,No,No
+10017,Desktop,Returning,France,Discovery,150,2,No,No
+10018,Desktop,New,United Kingdom,Search,186,0,No,No
+10019,Desktop,Returning,Other,Direct,271,7,No,No
+10020,Mobile,Returning,Germany,Discovery,67,1,No,No
+10021,Desktop,Returning,France,Discovery,591,0,No,No
+10022,Desktop,Returning,France,Search,248,6,Yes,No
+10023,Desktop,Returning,Netherlands,Direct,340,3,No,No
+10024,Mobile,Returning,United Kingdom,Direct,431,1,No,No
+10025,Mobile,New,Netherlands,Discovery,14,0,No,No
+10026,Desktop,Returning,France,Direct,370,1,No,No
+10027,Desktop,Returning,Other,Direct,33,0,No,No
+10028,Desktop,Returning,France,Search,429,2,No,No
+10029,Desktop,Returning,Germany,Direct,351,1,No,No
+10030,Mobile,Returning,Germany,Discovery,340,0,No,No
+10031,Mobile,Returning,Other,Direct,6,1,No,No
+10032,Desktop,New,United Kingdom,Search,42,1,No,No
+10033,Mobile,Returning,Germany,Direct,44,0,No,No
+10034,Desktop,New,Other,Direct,102,1,No,No
+10035,Desktop,New,United Kingdom,Discovery,3,0,No,No
+10036,Desktop,Returning,France,Direct,195,1,No,No
+10037,Mobile,Returning,United Kingdom,Search,133,6,No,No
+10038,Desktop,Returning,United Kingdom,Discovery,403,3,Yes,No
+10039,Desktop,Returning,Germany,Direct,148,4,No,No
+10040,Desktop,Returning,Netherlands,Search,76,1,No,No
+10041,Desktop,New,United Kingdom,Discovery,74,1,No,No
+10042,Desktop,Returning,Netherlands,Search,502,2,No,No
+10043,Mobile,New,United Kingdom,Direct,11,5,No,No
+10044,Desktop,Returning,Netherlands,Direct,23,6,No,No
+10045,Mobile,Returning,France,Direct,63,0,No,No
+10046,Desktop,Returning,United Kingdom,Direct,48,4,No,No
+10047,Desktop,Returning,United Kingdom,Direct,625,1,No,No
+10048,Desktop,New,Other,Discovery,40,0,No,No
+10049,Desktop,Returning,Germany,Direct,133,2,No,No
+10050,Mobile,Returning,United Kingdom,Search,138,0,No,No
+10051,Desktop,Returning,Other,Search,38,0,Yes,Yes
+10052,Desktop,Returning,United Kingdom,Discovery,176,2,Yes,Yes
+10053,Mobile,Returning,United Kingdom,Discovery,262,5,No,No
+10054,Desktop,Returning,France,Search,569,5,No,No
+10055,Mobile,Returning,France,Discovery,348,4,No,No
+10056,Desktop,Returning,Other,Discovery,9,6,No,No
+10057,Desktop,Returning,Netherlands,Search,350,0,No,No
+10058,Mobile,New,Germany,Search,171,0,No,No
+10059,Mobile,New,Other,Search,280,0,No,No
+10060,Mobile,Returning,France,Discovery,32,5,No,No
+10061,Desktop,Returning,United Kingdom,Discovery,16,1,Yes,No
+10062,Desktop,New,Germany,Direct,32,1,No,No
+10063,Mobile,Returning,Other,Discovery,283,2,No,No
+10064,Mobile,Returning,United Kingdom,Discovery,281,3,No,No
+10065,Desktop,New,Netherlands,Search,7,2,No,No
+10066,Desktop,New,Germany,Discovery,25,3,No,No
+10067,Mobile,Returning,Other,Search,266,4,No,No
+10068,Desktop,Returning,United Kingdom,Discovery,8,5,Yes,No
+10069,Desktop,Returning,France,Search,22,5,No,No
+10070,Desktop,New,Netherlands,Search,305,0,No,No
+10071,Mobile,Returning,Netherlands,Direct,58,0,No,No
+10072,Mobile,New,United Kingdom,Direct,435,4,No,No
+10073,Mobile,Returning,United Kingdom,Direct,475,3,No,No
+10074,Desktop,Returning,France,Discovery,92,0,No,No
+10075,Desktop,Returning,United Kingdom,Discovery,0,2,No,No
+10076,Desktop,Returning,United Kingdom,Direct,59,3,No,No
+10077,Desktop,Returning,United Kingdom,Direct,112,3,No,No
+10078,Desktop,Returning,France,Search,92,0,Yes,No
+10079,Desktop,Returning,Germany,Direct,414,4,No,No
+10080,Mobile,Returning,Germany,Direct,27,1,No,No
+10081,Mobile,Returning,United Kingdom,Direct,66,1,No,No
+10082,Desktop,Returning,France,Search,46,1,No,No
+10083,Mobile,Returning,Other,Discovery,247,7,No,No
+10084,Desktop,Returning,United Kingdom,Discovery,71,2,No,No
+10085,Desktop,Returning,United Kingdom,Discovery,144,3,Yes,Yes
+10086,Desktop,New,France,Direct,83,5,No,No
+10087,Desktop,Returning,Netherlands,Search,13,1,No,No
+10088,Desktop,Returning,Germany,Direct,57,0,No,No
+10089,Desktop,Returning,Germany,Direct,455,5,No,No
+10090,Desktop,Returning,France,Search,414,7,Yes,Yes
+10091,Desktop,Returning,Germany,Direct,61,3,No,No
+10092,Desktop,Returning,Netherlands,Discovery,98,4,No,No
+10093,Mobile,Returning,Netherlands,Direct,207,2,No,No
+10094,Mobile,Returning,United Kingdom,Search,124,0,No,No
+10095,Desktop,Returning,Netherlands,Search,153,1,No,No
+10096,Desktop,Returning,France,Discovery,43,4,Yes,No
+10097,Mobile,Returning,Netherlands,Discovery,307,0,No,No
+10098,Desktop,Returning,France,Search,36,0,No,No
+10099,Mobile,Returning,France,Search,172,0,No,No
+10100,Desktop,Returning,Other,Direct,29,10,No,No
+10101,Desktop,Returning,Other,Discovery,381,1,No,No
+10102,Desktop,Returning,Netherlands,Search,305,3,Yes,No
+10103,Desktop,Returning,France,Direct,335,2,No,No
+10104,Desktop,Returning,Netherlands,Discovery,26,5,Yes,No
+10105,Desktop,Returning,Other,Direct,69,1,No,No
+10106,Mobile,New,Other,Search,220,4,No,No
+10107,Mobile,Returning,Other,Direct,139,0,No,No
+10108,Desktop,Returning,United Kingdom,Discovery,21,1,Yes,No
+10109,Desktop,Returning,Netherlands,Discovery,206,1,No,No
+10110,Desktop,Returning,France,Direct,275,2,No,No
+10111,Mobile,Returning,Germany,Search,47,1,No,No
+10112,Desktop,Returning,Germany,Search,363,3,No,No
+10113,Desktop,Returning,Germany,Search,263,1,No,No
+10114,Desktop,New,Germany,Search,0,1,No,No
+10115,Desktop,Returning,United Kingdom,Discovery,31,3,No,No
+10116,Mobile,Returning,France,Discovery,49,6,No,No
+10117,Desktop,Returning,Germany,Search,20,7,No,No
+10118,Mobile,Returning,Netherlands,Discovery,164,1,No,No
+10119,Desktop,New,France,Search,25,1,No,No
+10120,Desktop,Returning,Germany,Direct,49,5,No,No
+10121,Desktop,Returning,Germany,Discovery,196,3,No,No
+10122,Mobile,Returning,Netherlands,Search,445,1,No,No
+10123,Desktop,Returning,Other,Discovery,16,0,No,No
+10124,Desktop,New,United Kingdom,Discovery,265,4,No,No
+10125,Desktop,New,United Kingdom,Discovery,12,0,No,No
+10126,Mobile,Returning,Netherlands,Direct,11,0,No,No
+10127,Desktop,Returning,Netherlands,Search,147,2,No,No
+10128,Desktop,Returning,Other,Discovery,211,2,Yes,No
+10129,Desktop,Returning,Other,Search,351,2,No,No
+10130,Mobile,New,France,Discovery,203,0,No,No
+10131,Desktop,New,Other,Direct,57,1,No,No
+10132,Mobile,Returning,Netherlands,Search,58,0,No,No
+10133,Mobile,New,Germany,Search,461,1,No,No
+10134,Desktop,Returning,Other,Search,306,0,Yes,No
+10135,Desktop,Returning,Netherlands,Search,48,6,No,No
+10136,Mobile,Returning,Other,Search,104,4,No,No
+10137,Desktop,Returning,France,Discovery,10,2,No,No
+10138,Mobile,Returning,United Kingdom,Search,255,0,No,No
+10139,Desktop,Returning,Other,Direct,13,9,No,No
+10140,Mobile,Returning,Germany,Search,51,0,No,No
+10141,Desktop,Returning,United Kingdom,Direct,169,1,No,No
+10142,Desktop,New,Other,Discovery,6,2,No,No
+10143,Desktop,Returning,Other,Search,122,0,Yes,No
+10144,Desktop,Returning,Other,Direct,340,1,No,No
+10145,Desktop,Returning,Other,Search,246,0,No,No
+10146,Mobile,Returning,Other,Direct,461,2,No,No
+10147,Desktop,Returning,Germany,Discovery,137,1,No,No
+10148,Mobile,Returning,Germany,Search,108,8,No,No
+10149,Desktop,Returning,United Kingdom,Discovery,105,4,No,No
+10150,Desktop,Returning,Germany,Search,507,0,No,No
+10151,Desktop,Returning,United Kingdom,Search,64,2,Yes,No
+10152,Mobile,Returning,Germany,Discovery,85,2,No,No
+10153,Mobile,New,Netherlands,Discovery,31,5,No,No
+10154,Desktop,Returning,Other,Direct,445,3,No,No
+10155,Desktop,Returning,Germany,Search,28,3,No,No
+10156,Desktop,Returning,Netherlands,Discovery,362,1,Yes,No
+10157,Desktop,Returning,Netherlands,Discovery,71,2,No,No
+10158,Mobile,Returning,Other,Search,36,1,No,No
+10159,Desktop,Returning,Other,Discovery,290,0,Yes,No
+10160,Desktop,Returning,France,Direct,478,1,No,No
+10161,Mobile,Returning,Germany,Direct,540,3,No,No
+10162,Desktop,New,United Kingdom,Search,13,0,No,No
+10163,Desktop,Returning,France,Discovery,44,4,Yes,No
+10164,Desktop,Returning,Other,Search,475,0,No,No
+10165,Mobile,New,Other,Direct,586,1,No,No
+10166,Desktop,Returning,Netherlands,Search,129,4,No,No
+10167,Desktop,Returning,Germany,Discovery,38,0,Yes,No
+10168,Desktop,Returning,France,Search,277,2,No,No
+10169,Mobile,New,Germany,Direct,218,1,No,No
+10170,Desktop,Returning,France,Search,297,2,No,No
+10171,Mobile,Returning,France,Search,52,2,No,No
+10172,Desktop,Returning,Netherlands,Discovery,205,1,No,No
+10173,Desktop,New,Other,Direct,146,8,No,No
+10174,Desktop,New,United Kingdom,Direct,344,1,No,No
+10175,Desktop,Returning,Germany,Discovery,150,1,Yes,No
+10176,Mobile,New,Germany,Search,112,1,No,No
+10177,Desktop,Returning,Netherlands,Direct,74,7,No,No
+10178,Desktop,Returning,Other,Direct,65,1,No,No
+10179,Mobile,Returning,United Kingdom,Direct,366,3,No,No
+10180,Desktop,Returning,United Kingdom,Search,5,3,Yes,Yes
+10181,Mobile,Returning,United Kingdom,Discovery,66,0,No,No
+10182,Desktop,Returning,Other,Direct,523,2,No,No
+10183,Desktop,New,United Kingdom,Discovery,31,0,No,No
+10184,Desktop,New,France,Search,394,1,No,No
+10185,Mobile,Returning,France,Discovery,171,0,No,No
+10186,Desktop,Returning,France,Search,190,1,No,No
+10187,Desktop,Returning,France,Direct,252,2,No,No
+10188,Desktop,Returning,Netherlands,Discovery,557,0,No,No
+10189,Desktop,Returning,Germany,Search,28,0,No,No
+10190,Desktop,Returning,United Kingdom,Discovery,253,4,Yes,Yes
+10191,Desktop,Returning,France,Discovery,295,0,No,No
+10192,Desktop,Returning,Other,Discovery,367,7,No,No
+10193,Desktop,Returning,Germany,Direct,191,2,No,No
+10194,Desktop,Returning,Other,Direct,24,5,No,No
+10195,Desktop,Returning,France,Discovery,79,2,No,No
+10196,Mobile,New,Other,Discovery,72,1,No,No
+10197,Desktop,Returning,Germany,Direct,339,5,No,No
+10198,Desktop,Returning,Netherlands,Search,486,0,Yes,Yes
+10199,Desktop,Returning,Other,Search,653,3,Yes,No
+10200,Mobile,Returning,Other,Search,119,6,No,No
+10201,Desktop,Returning,France,Direct,77,0,No,No
+10202,Mobile,New,France,Search,172,2,No,No
+10203,Desktop,Returning,France,Search,12,0,Yes,No
+10204,Mobile,New,Germany,Discovery,358,3,No,No
+10205,Mobile,Returning,United Kingdom,Search,56,0,No,No
+10206,Desktop,New,United Kingdom,Search,365,5,No,No
+10207,Mobile,Returning,Other,Search,126,6,No,No
+10208,Mobile,Returning,Other,Direct,523,3,No,No
+10209,Mobile,Returning,Germany,Direct,112,8,No,No
+10210,Mobile,Returning,United Kingdom,Direct,432,6,No,No
+10211,Desktop,Returning,Netherlands,Discovery,11,4,No,No
+10212,Desktop,Returning,Other,Search,92,7,No,No
+10213,Mobile,Returning,Germany,Discovery,147,8,No,No
+10214,Mobile,Returning,Other,Search,231,4,No,No
+10215,Mobile,Returning,Netherlands,Discovery,252,1,No,No
+10216,Desktop,Returning,France,Direct,159,0,No,No
+10217,Desktop,Returning,Netherlands,Search,362,5,No,No
+10218,Desktop,New,France,Search,56,2,No,No
+10219,Desktop,New,Germany,Discovery,4,3,No,No
+10220,Desktop,Returning,Netherlands,Discovery,259,0,No,No
+10221,Desktop,Returning,Other,Search,64,4,No,No
+10222,Mobile,Returning,Other,Discovery,0,0,No,No
+10223,Mobile,Returning,Netherlands,Direct,67,0,No,No
+10224,Mobile,Returning,Other,Direct,27,0,No,No
+10225,Desktop,New,Other,Discovery,0,2,No,No
+10226,Mobile,Returning,Other,Discovery,161,2,No,No
+10227,Desktop,Returning,Germany,Search,63,2,Yes,Yes
+10228,Desktop,New,Germany,Discovery,65,4,No,No
+10229,Desktop,Returning,France,Direct,64,1,No,No
+10230,Desktop,Returning,United Kingdom,Search,164,0,Yes,No
+10231,Desktop,Returning,United Kingdom,Direct,540,10,No,No
+10232,Desktop,Returning,France,Direct,391,4,No,No
+10233,Desktop,Returning,Netherlands,Direct,14,0,No,No
+10234,Desktop,Returning,United Kingdom,Direct,50,1,No,No
+10235,Desktop,Returning,Other,Search,261,4,No,No
+10236,Desktop,Returning,Other,Search,8,3,No,No
+10237,Desktop,Returning,Other,Discovery,29,0,Yes,No
+10238,Desktop,Returning,United Kingdom,Discovery,119,0,No,No
+10239,Desktop,Returning,Netherlands,Search,142,0,No,No
+10240,Desktop,Returning,Germany,Discovery,483,2,No,No
+10241,Desktop,Returning,Germany,Direct,455,0,No,No
+10242,Mobile,Returning,Other,Discovery,64,7,No,No
+10243,Desktop,Returning,Netherlands,Discovery,22,7,No,No
+10244,Desktop,Returning,Germany,Direct,125,2,No,No
+10245,Desktop,New,France,Discovery,150,0,No,No
+10246,Desktop,New,United Kingdom,Direct,529,2,No,No
+10247,Mobile,Returning,Netherlands,Direct,102,3,No,No
+10248,Mobile,Returning,United Kingdom,Search,11,2,No,No
+10249,Desktop,Returning,France,Direct,582,7,No,No
+10250,Desktop,Returning,France,Direct,64,5,No,No
+10251,Desktop,Returning,Netherlands,Direct,65,8,No,No
+10252,Desktop,Returning,France,Discovery,27,5,No,No
+10253,Mobile,Returning,Germany,Search,11,6,No,No
+10254,Desktop,Returning,France,Search,88,6,Yes,Yes
+10255,Desktop,Returning,Germany,Search,16,3,No,No
+10256,Desktop,Returning,Germany,Direct,466,1,No,No
+10257,Desktop,Returning,United Kingdom,Discovery,60,0,Yes,No
+10258,Mobile,Returning,Other,Direct,102,2,No,No
+10259,Mobile,New,Germany,Direct,5,2,No,No
+10260,Desktop,Returning,Netherlands,Search,196,1,No,No
+10261,Mobile,Returning,Germany,Direct,272,0,No,No
+10262,Mobile,Returning,France,Discovery,61,3,No,No
+10263,Mobile,Returning,Netherlands,Direct,46,2,No,No
+10264,Mobile,New,Netherlands,Direct,147,8,No,No
+10265,Desktop,Returning,Netherlands,Direct,364,1,No,No
+10266,Mobile,Returning,Other,Discovery,7,3,No,No
+10267,Mobile,Returning,Netherlands,Direct,196,0,No,No
+10268,Desktop,Returning,France,Direct,70,7,No,No
+10269,Desktop,Returning,Netherlands,Discovery,458,8,Yes,No
+10270,Desktop,Returning,France,Discovery,187,1,No,No
+10271,Desktop,Returning,Other,Search,109,0,No,No
+10272,Mobile,Returning,France,Search,116,1,No,No
+10273,Desktop,Returning,Other,Discovery,306,0,No,No
+10274,Desktop,Returning,Netherlands,Discovery,211,5,No,No
+10275,Mobile,Returning,Netherlands,Discovery,86,1,No,No
+10276,Desktop,Returning,Other,Discovery,1,0,No,No
+10277,Desktop,Returning,United Kingdom,Search,3,0,Yes,Yes
+10278,Mobile,New,Germany,Direct,61,2,No,No
+10279,Mobile,Returning,Other,Discovery,117,0,No,No
+10280,Desktop,Returning,United Kingdom,Search,474,5,Yes,No
+10281,Desktop,Returning,United Kingdom,Search,214,1,No,No
+10282,Mobile,Returning,France,Direct,269,7,No,No
+10283,Mobile,Returning,Other,Direct,119,4,No,No
+10284,Desktop,Returning,Other,Discovery,147,5,Yes,No
+10285,Desktop,Returning,France,Direct,637,4,No,No
+10286,Desktop,Returning,Netherlands,Discovery,205,8,No,No
+10287,Desktop,Returning,Other,Search,367,6,No,No
+10288,Desktop,Returning,Germany,Discovery,64,1,No,No
+10289,Mobile,Returning,Netherlands,Discovery,16,4,No,No
+10290,Mobile,Returning,France,Search,57,0,No,No
+10291,Desktop,Returning,Other,Direct,302,5,No,No
+10292,Desktop,Returning,Netherlands,Search,2,3,No,No
+10293,Desktop,Returning,Other,Search,199,3,No,No
+10294,Mobile,Returning,Germany,Discovery,535,0,No,No
+10295,Desktop,New,France,Direct,545,4,No,No
+10296,Desktop,Returning,Germany,Direct,362,2,No,No
+10297,Desktop,Returning,Germany,Search,102,6,No,No
+10298,Desktop,Returning,Germany,Search,236,2,Yes,No
+10299,Mobile,Returning,Other,Direct,288,4,No,No
+10300,Desktop,Returning,France,Direct,24,3,No,No
+10301,Mobile,Returning,Other,Direct,194,5,No,No
+10302,Desktop,Returning,Netherlands,Discovery,354,1,No,No
+10303,Desktop,Returning,France,Discovery,93,1,No,No
+10304,Desktop,Returning,Germany,Search,75,4,No,No
+10305,Desktop,Returning,United Kingdom,Discovery,39,0,Yes,Yes
+10306,Desktop,New,Germany,Search,464,0,No,No
+10307,Desktop,Returning,Netherlands,Direct,262,0,No,No
+10308,Desktop,Returning,United Kingdom,Discovery,38,5,No,No
+10309,Desktop,Returning,Germany,Discovery,5,0,No,No
+10310,Desktop,Returning,Germany,Discovery,23,3,Yes,No
+10311,Desktop,Returning,France,Direct,81,2,No,No
+10312,Mobile,Returning,Germany,Direct,81,1,No,No
+10313,Desktop,Returning,Netherlands,Discovery,271,1,No,No
+10314,Desktop,Returning,Other,Direct,454,1,No,No
+10315,Desktop,Returning,France,Discovery,205,2,Yes,No
+10316,Desktop,Returning,Other,Search,55,7,No,No
+10317,Desktop,Returning,Other,Search,439,2,No,No
+10318,Desktop,New,Other,Search,518,1,No,No
+10319,Desktop,Returning,United Kingdom,Direct,73,0,No,No
+10320,Mobile,Returning,Netherlands,Direct,110,1,No,No
+10321,Desktop,Returning,Other,Search,307,1,Yes,No
+10322,Desktop,New,Netherlands,Discovery,118,9,No,No
+10323,Desktop,Returning,Other,Discovery,158,0,No,No
+10324,Mobile,Returning,France,Search,519,4,No,No
+10325,Desktop,Returning,Germany,Direct,17,5,No,No
+10326,Desktop,Returning,Germany,Discovery,609,1,No,No
+10327,Desktop,Returning,Netherlands,Direct,49,1,No,No
+10328,Desktop,Returning,Other,Discovery,296,2,No,No
+10329,Desktop,Returning,United Kingdom,Direct,63,0,No,No
+10330,Desktop,Returning,Netherlands,Search,105,0,No,No
+10331,Desktop,Returning,France,Discovery,193,3,No,No
+10332,Desktop,Returning,United Kingdom,Direct,31,1,No,No
+10333,Desktop,Returning,Germany,Discovery,24,3,No,No
+10334,Desktop,Returning,Germany,Search,240,8,No,No
+10335,Desktop,Returning,Netherlands,Direct,48,0,No,No
+10336,Desktop,New,France,Direct,1,7,No,No
+10337,Desktop,Returning,Other,Direct,384,4,No,No
+10338,Desktop,Returning,Germany,Discovery,264,0,No,No
+10339,Mobile,Returning,United Kingdom,Direct,358,0,No,No
+10340,Desktop,Returning,United Kingdom,Discovery,379,1,No,No
+10341,Desktop,Returning,Germany,Direct,20,0,No,No
+10342,Desktop,Returning,Other,Direct,103,4,No,No
+10343,Mobile,New,France,Discovery,5,3,No,No
+10344,Mobile,Returning,Germany,Direct,394,3,No,No
+10345,Desktop,Returning,France,Search,595,2,Yes,No
+10346,Desktop,Returning,France,Direct,64,1,No,No
+10347,Desktop,Returning,France,Discovery,18,5,No,No
+10348,Desktop,Returning,United Kingdom,Discovery,39,4,Yes,No
+10349,Desktop,Returning,Netherlands,Search,630,2,No,No
+10350,Desktop,Returning,Germany,Direct,279,4,No,No
+10351,Desktop,Returning,Germany,Direct,38,0,No,No
+10352,Mobile,Returning,Germany,Direct,246,0,No,No
+10353,Desktop,New,Other,Direct,13,1,No,No
+10354,Mobile,Returning,France,Discovery,35,0,No,No
+10355,Desktop,Returning,United Kingdom,Search,111,3,Yes,No
+10356,Desktop,Returning,Other,Direct,137,0,No,No
+10357,Desktop,New,France,Direct,1,2,No,No
+10358,Desktop,Returning,United Kingdom,Discovery,374,4,Yes,No
+10359,Desktop,Returning,Netherlands,Direct,3,1,No,No
+10360,Desktop,Returning,United Kingdom,Direct,119,1,No,No
+10361,Mobile,Returning,Other,Discovery,272,2,No,No
+10362,Desktop,Returning,Germany,Search,270,0,No,No
+10363,Desktop,Returning,France,Direct,185,1,No,No
+10364,Desktop,Returning,France,Discovery,35,2,No,No
+10365,Desktop,New,Other,Search,412,4,No,No
+10366,Desktop,Returning,Netherlands,Discovery,382,0,No,No
+10367,Mobile,Returning,Other,Direct,152,4,No,No
+10368,Desktop,Returning,United Kingdom,Discovery,117,3,No,No
+10369,Desktop,New,Netherlands,Direct,488,1,No,No
+10370,Desktop,Returning,Netherlands,Search,85,8,No,No
+10371,Desktop,Returning,Germany,Search,223,0,No,No
+10372,Mobile,Returning,Germany,Direct,547,1,No,No
+10373,Desktop,New,Germany,Direct,384,1,No,No
+10374,Desktop,Returning,United Kingdom,Discovery,47,5,No,No
+10375,Desktop,Returning,Netherlands,Direct,170,0,No,No
+10376,Desktop,Returning,Germany,Discovery,77,2,No,No
+10377,Desktop,Returning,Germany,Search,623,0,No,No
+10378,Desktop,Returning,France,Search,107,1,No,No
+10379,Mobile,Returning,Germany,Direct,60,0,No,No
+10380,Desktop,Returning,France,Direct,119,2,No,No
+10381,Desktop,Returning,France,Direct,35,0,No,No
+10382,Desktop,Returning,Other,Search,13,1,No,No
+10383,Mobile,Returning,Netherlands,Discovery,1,4,No,No
+10384,Desktop,Returning,Netherlands,Direct,427,1,No,No
+10385,Desktop,Returning,Other,Search,134,6,Yes,No
+10386,Desktop,Returning,Netherlands,Direct,153,0,No,No
+10387,Mobile,Returning,United Kingdom,Discovery,126,3,No,No
+10388,Mobile,Returning,Germany,Direct,22,1,No,No
+10389,Mobile,New,Other,Search,278,1,No,No
+10390,Desktop,Returning,United Kingdom,Search,172,1,Yes,No
+10391,Desktop,Returning,Other,Direct,63,2,No,No
+10392,Desktop,Returning,France,Search,441,2,No,No
+10393,Desktop,New,France,Direct,229,1,No,No
+10394,Desktop,Returning,Germany,Search,31,0,No,No
+10395,Desktop,Returning,United Kingdom,Search,1,1,No,No
+10396,Desktop,New,Germany,Search,675,6,No,No
+10397,Mobile,Returning,Germany,Discovery,46,2,No,No
+10398,Desktop,Returning,Netherlands,Direct,63,1,No,No
+10399,Mobile,Returning,France,Direct,155,3,No,No
+10400,Mobile,Returning,United Kingdom,Search,150,3,No,No
+10401,Mobile,Returning,France,Discovery,235,3,No,No
+10402,Desktop,Returning,Other,Direct,109,3,No,No
+10403,Desktop,Returning,Other,Direct,86,1,No,No
+10404,Mobile,Returning,Netherlands,Discovery,66,3,No,No
+10405,Mobile,Returning,Netherlands,Direct,228,8,No,No
+10406,Desktop,Returning,Germany,Direct,12,4,No,No
+10407,Desktop,New,Other,Discovery,81,0,No,No
+10408,Desktop,Returning,Germany,Direct,45,2,No,No
+10409,Desktop,New,Netherlands,Discovery,543,7,No,No
+10410,Desktop,Returning,France,Discovery,105,0,No,No
+10411,Desktop,Returning,France,Direct,69,2,No,No
+10412,Mobile,Returning,Germany,Direct,94,8,No,No
+10413,Desktop,New,Germany,Search,156,3,No,No
+10414,Mobile,Returning,Other,Discovery,69,3,No,No
+10415,Mobile,Returning,France,Discovery,30,1,No,No
+10416,Desktop,Returning,Germany,Discovery,625,3,No,No
+10417,Desktop,Returning,United Kingdom,Direct,211,0,No,No
+10418,Desktop,Returning,United Kingdom,Discovery,80,1,No,No
+10419,Desktop,Returning,Germany,Search,30,1,No,No
+10420,Mobile,Returning,United Kingdom,Discovery,34,0,No,No
+10421,Mobile,Returning,United Kingdom,Search,200,5,No,No
+10422,Mobile,Returning,Other,Discovery,361,2,No,No
+10423,Desktop,Returning,United Kingdom,Discovery,30,3,No,No
+10424,Desktop,Returning,France,Direct,8,2,No,No
+10425,Desktop,Returning,United Kingdom,Discovery,32,4,Yes,No
+10426,Desktop,Returning,Other,Search,241,1,No,No
+10427,Desktop,Returning,Netherlands,Discovery,300,2,No,No
+10428,Desktop,Returning,France,Search,35,4,No,No
+10429,Desktop,Returning,Netherlands,Discovery,75,0,No,No
+10430,Desktop,Returning,United Kingdom,Search,13,1,No,No
+10431,Mobile,Returning,Germany,Discovery,268,6,No,No
+10432,Desktop,Returning,Netherlands,Search,356,1,No,No
+10433,Desktop,Returning,United Kingdom,Search,421,8,Yes,No
+10434,Desktop,New,Germany,Discovery,18,4,No,No
+10435,Mobile,Returning,Germany,Discovery,6,9,No,No
+10436,Mobile,Returning,United Kingdom,Search,133,1,No,No
+10437,Desktop,Returning,Other,Search,184,0,No,No
+10438,Mobile,Returning,France,Discovery,11,0,No,No
+10439,Desktop,Returning,Netherlands,Discovery,201,1,No,No
+10440,Mobile,Returning,Netherlands,Discovery,0,5,No,No
+10441,Desktop,New,France,Direct,368,1,No,No
+10442,Mobile,New,United Kingdom,Direct,2,2,No,No
+10443,Desktop,Returning,France,Discovery,142,4,No,No
+10444,Desktop,Returning,Other,Discovery,18,7,No,No
+10445,Desktop,Returning,United Kingdom,Direct,143,3,No,No
+10446,Mobile,Returning,United Kingdom,Direct,1,0,No,No
+10447,Desktop,New,France,Discovery,13,1,No,No
+10448,Mobile,Returning,Other,Discovery,211,4,No,No
+10449,Mobile,Returning,United Kingdom,Discovery,12,3,No,No
+10450,Mobile,Returning,Netherlands,Direct,576,3,No,No
+10451,Mobile,Returning,Germany,Discovery,73,4,No,No
+10452,Desktop,Returning,Germany,Search,42,1,No,No
+10453,Mobile,New,Other,Search,134,4,No,No
+10454,Desktop,Returning,United Kingdom,Discovery,282,6,Yes,Yes
+10455,Desktop,Returning,Germany,Discovery,231,0,No,No
+10456,Desktop,Returning,Netherlands,Discovery,133,8,No,No
+10457,Mobile,Returning,Germany,Direct,207,8,No,No
+10458,Desktop,Returning,France,Search,84,0,No,No
+10459,Desktop,Returning,United Kingdom,Discovery,75,2,No,No
+10460,Mobile,Returning,Other,Discovery,261,1,No,No
+10461,Desktop,Returning,Germany,Discovery,195,0,No,No
+10462,Desktop,Returning,Germany,Direct,12,2,No,No
+10463,Desktop,Returning,United Kingdom,Search,14,1,Yes,No
+10464,Desktop,Returning,Other,Direct,14,4,No,No
+10465,Desktop,Returning,Netherlands,Direct,171,2,No,No
+10466,Desktop,Returning,Netherlands,Direct,233,2,No,No
+10467,Desktop,Returning,France,Discovery,683,1,Yes,Yes
+10468,Desktop,Returning,Netherlands,Discovery,80,4,No,No
+10469,Desktop,New,Other,Discovery,146,1,No,No
+10470,Desktop,Returning,France,Discovery,149,3,Yes,No
+10471,Desktop,Returning,United Kingdom,Discovery,85,2,Yes,No
+10472,Mobile,New,Other,Discovery,6,4,No,No
+10473,Desktop,Returning,United Kingdom,Discovery,0,0,Yes,Yes
+10474,Desktop,Returning,United Kingdom,Search,23,3,No,No
+10475,Desktop,Returning,Netherlands,Discovery,100,3,No,No
+10476,Mobile,Returning,Netherlands,Direct,265,3,No,No
+10477,Desktop,Returning,Netherlands,Search,479,8,No,No
+10478,Desktop,Returning,Other,Discovery,83,4,No,No
+10479,Desktop,Returning,Other,Direct,198,1,No,No
+10480,Desktop,New,Netherlands,Direct,96,2,No,No
+10481,Desktop,Returning,Netherlands,Direct,9,0,No,No
+10482,Desktop,Returning,Netherlands,Discovery,182,0,No,No
+10483,Desktop,Returning,United Kingdom,Discovery,369,8,No,No
+10484,Mobile,Returning,Other,Discovery,209,1,No,No
+10485,Desktop,Returning,Other,Direct,37,2,No,No
+10486,Mobile,Returning,Other,Discovery,2,0,No,No
+10487,Desktop,Returning,Netherlands,Direct,471,1,No,No
+10488,Desktop,Returning,Other,Search,139,1,No,No
+10489,Desktop,Returning,Netherlands,Search,16,0,Yes,Yes
+10490,Mobile,Returning,Netherlands,Discovery,214,1,No,No
+10491,Mobile,Returning,Germany,Search,238,1,No,No
+10492,Desktop,Returning,France,Direct,4,2,No,No
+10493,Desktop,Returning,United Kingdom,Direct,406,4,Yes,No
+10494,Desktop,Returning,France,Discovery,94,0,No,No
+10495,Desktop,Returning,United Kingdom,Discovery,79,2,No,No
+10496,Desktop,Returning,Netherlands,Search,564,0,No,No
+10497,Desktop,Returning,Netherlands,Search,397,0,No,No
+10498,Desktop,Returning,France,Discovery,235,2,Yes,No
+10499,Mobile,Returning,Germany,Discovery,388,7,No,No
+10500,Desktop,Returning,Netherlands,Search,73,0,No,No
+10501,Desktop,Returning,Netherlands,Discovery,216,0,Yes,No
+10502,Desktop,Returning,Other,Search,409,3,No,No
+10503,Desktop,Returning,Netherlands,Direct,54,1,No,No
+10504,Desktop,Returning,Other,Discovery,109,0,No,No
+10505,Desktop,New,France,Search,467,4,No,No
+10506,Mobile,Returning,United Kingdom,Search,9,4,No,No
+10507,Desktop,Returning,United Kingdom,Direct,405,0,No,No
+10508,Mobile,Returning,France,Direct,248,2,No,No
+10509,Desktop,New,United Kingdom,Discovery,111,1,No,No
+10510,Mobile,New,United Kingdom,Discovery,4,2,No,No
+10511,Mobile,Returning,Netherlands,Direct,693,1,No,No
+10512,Desktop,Returning,Other,Search,619,8,No,No
+10513,Desktop,Returning,France,Direct,99,6,No,No
+10514,Desktop,Returning,Netherlands,Discovery,71,1,No,No
+10515,Desktop,Returning,France,Search,14,4,No,No
+10516,Desktop,Returning,France,Direct,596,0,No,No
+10517,Desktop,Returning,Other,Direct,175,1,No,No
+10518,Desktop,Returning,Germany,Discovery,345,1,No,No
+10519,Desktop,Returning,Other,Discovery,49,5,No,No
+10520,Desktop,Returning,France,Search,104,2,No,No
+10521,Mobile,Returning,United Kingdom,Discovery,148,2,No,No
+10522,Desktop,Returning,Netherlands,Search,114,1,No,No
+10523,Desktop,Returning,United Kingdom,Discovery,34,3,Yes,No
+10524,Desktop,New,Other,Direct,98,2,No,No
+10525,Desktop,Returning,France,Discovery,373,0,No,No
+10526,Desktop,Returning,United Kingdom,Discovery,131,1,No,No
+10527,Desktop,Returning,Other,Search,36,9,No,No
+10528,Mobile,Returning,United Kingdom,Discovery,182,0,No,No
+10529,Desktop,Returning,France,Direct,170,2,No,No
+10530,Desktop,New,France,Search,86,6,No,No
+10531,Desktop,Returning,Netherlands,Direct,225,5,No,No
+10532,Mobile,New,France,Direct,262,4,No,No
+10533,Desktop,Returning,Germany,Search,7,0,No,No
+10534,Desktop,Returning,Netherlands,Direct,449,4,No,No
+10535,Desktop,Returning,France,Direct,342,2,No,No
+10536,Mobile,Returning,Netherlands,Direct,28,3,No,No
+10537,Desktop,Returning,United Kingdom,Discovery,567,0,No,No
+10538,Desktop,Returning,France,Search,46,0,No,No
+10539,Desktop,Returning,France,Discovery,199,3,No,No
+10540,Mobile,Returning,Other,Search,28,1,No,No
+10541,Desktop,Returning,United Kingdom,Discovery,14,0,No,No
+10542,Desktop,Returning,United Kingdom,Discovery,251,6,Yes,Yes
+10543,Desktop,Returning,United Kingdom,Discovery,377,0,Yes,No
+10544,Desktop,Returning,Germany,Search,377,2,Yes,No
+10545,Desktop,Returning,France,Discovery,1,1,Yes,Yes
+10546,Desktop,Returning,Netherlands,Search,255,4,No,No
+10547,Mobile,Returning,Netherlands,Search,211,2,No,No
+10548,Desktop,Returning,United Kingdom,Search,147,1,No,No
+10549,Mobile,Returning,Netherlands,Discovery,254,0,No,No
+10550,Desktop,Returning,Other,Search,70,0,No,No
+10551,Desktop,Returning,Germany,Direct,44,0,No,No
+10552,Mobile,Returning,Germany,Discovery,50,7,No,No
+10553,Desktop,Returning,Netherlands,Discovery,25,5,No,No
+10554,Desktop,Returning,France,Discovery,542,0,No,No
+10555,Desktop,New,United Kingdom,Discovery,0,0,No,No
+10556,Desktop,New,Netherlands,Direct,65,1,No,No
+10557,Desktop,Returning,United Kingdom,Search,183,0,No,No
+10558,Desktop,Returning,United Kingdom,Search,65,2,No,No
+10559,Desktop,Returning,Netherlands,Search,98,1,No,No
+10560,Desktop,Returning,France,Discovery,41,3,No,No
+10561,Desktop,New,France,Direct,61,1,No,No
+10562,Desktop,Returning,Netherlands,Search,100,0,Yes,Yes
+10563,Desktop,Returning,France,Discovery,86,0,No,No
+10564,Desktop,Returning,Netherlands,Discovery,420,7,No,No
+10565,Desktop,Returning,Netherlands,Direct,392,3,No,No
+10566,Desktop,New,Netherlands,Direct,542,7,No,No
+10567,Desktop,Returning,France,Search,11,1,No,No
+10568,Desktop,Returning,France,Discovery,8,6,No,No
+10569,Desktop,Returning,Other,Direct,344,3,No,No
+10570,Desktop,Returning,Other,Discovery,83,2,Yes,No
+10571,Mobile,Returning,Germany,Direct,62,2,No,No
+10572,Desktop,Returning,Germany,Discovery,215,8,No,No
+10573,Desktop,Returning,France,Discovery,130,6,No,No
+10574,Desktop,New,Germany,Search,414,0,No,No
+10575,Desktop,Returning,United Kingdom,Discovery,238,1,No,No
+10576,Desktop,New,Other,Discovery,85,0,No,No
+10577,Desktop,Returning,Other,Direct,538,6,No,No
+10578,Desktop,Returning,United Kingdom,Search,181,0,No,No
+10579,Desktop,Returning,Germany,Search,368,1,Yes,Yes
+10580,Desktop,Returning,Netherlands,Direct,196,3,No,No
+10581,Desktop,Returning,United Kingdom,Search,370,1,Yes,Yes
+10582,Desktop,Returning,United Kingdom,Direct,54,2,No,No
+10583,Mobile,Returning,Netherlands,Search,46,6,No,No
+10584,Desktop,Returning,Other,Direct,68,1,No,No
+10585,Desktop,New,Other,Direct,361,2,No,No
+10586,Desktop,Returning,Other,Discovery,161,4,No,No
+10587,Mobile,Returning,Other,Direct,115,3,No,No
+10588,Desktop,Returning,Germany,Discovery,5,0,Yes,No
+10589,Mobile,Returning,France,Direct,337,1,No,No
+10590,Desktop,New,Germany,Direct,15,3,No,No
+10591,Desktop,Returning,France,Discovery,53,6,Yes,Yes
+10592,Desktop,New,Germany,Search,377,0,No,No
+10593,Desktop,Returning,Germany,Direct,564,0,No,No
+10594,Desktop,Returning,Netherlands,Discovery,97,3,No,No
+10595,Desktop,Returning,Other,Search,354,4,No,No
+10596,Mobile,Returning,Germany,Direct,137,2,No,No
+10597,Desktop,New,Other,Discovery,523,1,No,No
+10598,Mobile,Returning,Other,Direct,20,0,No,No
+10599,Mobile,Returning,Germany,Direct,320,3,No,No
+10600,Desktop,Returning,Netherlands,Search,18,2,No,No
+10601,Mobile,Returning,Netherlands,Search,63,2,No,No
+10602,Desktop,New,Netherlands,Discovery,169,0,No,No
+10603,Desktop,New,France,Search,18,0,No,No
+10604,Desktop,New,Netherlands,Direct,15,1,No,No
+10605,Desktop,Returning,France,Discovery,470,0,No,No
+10606,Desktop,Returning,Other,Direct,310,6,No,No
+10607,Desktop,New,Germany,Search,109,0,No,No
+10608,Desktop,Returning,Other,Search,54,1,No,No
+10609,Desktop,New,Other,Discovery,195,3,No,No
+10610,Desktop,New,Other,Discovery,37,0,No,No
+10611,Desktop,Returning,Other,Discovery,134,0,No,No
+10612,Desktop,Returning,Germany,Direct,423,3,No,No
+10613,Desktop,Returning,France,Search,133,0,Yes,Yes
+10614,Desktop,New,France,Discovery,122,4,No,No
+10615,Mobile,Returning,Other,Search,7,0,No,No
+10616,Desktop,Returning,Other,Direct,146,7,No,No
+10617,Mobile,Returning,Germany,Direct,98,1,No,No
+10618,Mobile,Returning,Netherlands,Direct,159,1,No,No
+10619,Mobile,New,Other,Search,646,4,No,No
+10620,Mobile,Returning,Germany,Search,239,4,No,No
+10621,Mobile,Returning,United Kingdom,Direct,243,0,No,No
+10622,Mobile,Returning,Other,Direct,194,3,No,No
+10623,Mobile,New,Netherlands,Direct,11,6,No,No
+10624,Desktop,Returning,France,Discovery,362,3,No,No
+10625,Desktop,Returning,United Kingdom,Search,260,8,No,No
+10626,Desktop,New,United Kingdom,Direct,23,7,No,No
+10627,Desktop,Returning,Other,Direct,89,3,No,No
+10628,Desktop,Returning,Netherlands,Direct,411,0,No,No
+10629,Mobile,Returning,France,Discovery,8,3,No,No
+10630,Mobile,Returning,Netherlands,Discovery,61,3,No,No
+10631,Mobile,Returning,Other,Search,427,1,No,No
+10632,Mobile,Returning,Netherlands,Search,266,7,No,No
+10633,Desktop,Returning,Netherlands,Direct,251,9,No,No
+10634,Desktop,Returning,Germany,Discovery,54,1,Yes,No
+10635,Mobile,Returning,United Kingdom,Search,172,3,No,No
+10636,Desktop,Returning,Netherlands,Search,721,0,No,No
+10637,Desktop,Returning,Germany,Discovery,61,2,No,No
+10638,Mobile,New,United Kingdom,Search,121,2,No,No
+10639,Mobile,Returning,Netherlands,Discovery,420,0,No,No
+10640,Desktop,Returning,United Kingdom,Direct,114,6,No,No
+10641,Mobile,Returning,United Kingdom,Search,303,2,No,No
+10642,Desktop,Returning,United Kingdom,Direct,5,5,No,No
+10643,Desktop,Returning,Germany,Search,1,6,No,No
+10644,Mobile,Returning,Netherlands,Discovery,255,2,No,No
+10645,Mobile,Returning,Germany,Search,163,0,No,No
+10646,Desktop,New,United Kingdom,Direct,202,2,No,No
+10647,Desktop,Returning,Netherlands,Discovery,90,2,No,No
+10648,Mobile,Returning,Other,Direct,62,3,No,No
+10649,Desktop,Returning,United Kingdom,Search,492,0,Yes,Yes
+10650,Desktop,Returning,Other,Direct,157,6,No,No
+10651,Desktop,Returning,United Kingdom,Search,38,0,No,No
+10652,Desktop,Returning,Other,Search,298,0,No,No
+10653,Desktop,Returning,Germany,Search,101,1,No,No
+10654,Desktop,Returning,Germany,Search,310,1,No,No
+10655,Desktop,Returning,France,Discovery,377,10,Yes,No
+10656,Mobile,Returning,Netherlands,Search,294,0,No,No
+10657,Mobile,Returning,United Kingdom,Search,83,5,No,No
+10658,Desktop,Returning,Netherlands,Discovery,104,1,Yes,Yes
+10659,Mobile,Returning,Germany,Direct,34,5,No,No
+10660,Desktop,Returning,Other,Direct,1,5,No,No
+10661,Desktop,Returning,France,Discovery,99,2,No,No
+10662,Desktop,Returning,Other,Discovery,98,0,No,No
+10663,Desktop,Returning,Other,Direct,232,2,No,No
+10664,Desktop,Returning,France,Discovery,18,0,No,No
+10665,Desktop,Returning,Germany,Search,287,5,Yes,No
+10666,Mobile,Returning,Other,Discovery,146,4,No,No
+10667,Mobile,New,Germany,Search,433,4,No,No
+10668,Desktop,Returning,Other,Direct,298,5,No,No
+10669,Desktop,Returning,Germany,Direct,569,0,No,No
+10670,Desktop,Returning,France,Search,558,5,No,No
+10671,Desktop,Returning,United Kingdom,Direct,520,5,No,No
+10672,Desktop,Returning,Other,Discovery,117,5,No,No
+10673,Desktop,Returning,Germany,Discovery,138,0,No,No
+10674,Mobile,Returning,France,Search,1,3,No,No
+10675,Desktop,Returning,Netherlands,Search,98,1,No,No
+10676,Mobile,Returning,Other,Discovery,359,6,No,No
+10677,Mobile,New,Other,Search,277,0,No,No
+10678,Mobile,New,United Kingdom,Search,6,8,No,No
+10679,Mobile,Returning,Germany,Discovery,9,1,No,No
+10680,Desktop,Returning,United Kingdom,Direct,340,1,No,No
+10681,Mobile,Returning,Other,Discovery,51,0,No,No
+10682,Desktop,Returning,United Kingdom,Direct,241,1,No,No
+10683,Mobile,Returning,United Kingdom,Discovery,182,0,No,No
+10684,Desktop,Returning,United Kingdom,Discovery,212,9,No,No
+10685,Desktop,Returning,Germany,Direct,434,0,No,No
+10686,Mobile,New,Other,Search,324,1,No,No
+10687,Desktop,Returning,Netherlands,Discovery,146,1,No,No
+10688,Mobile,Returning,Other,Direct,144,3,No,No
+10689,Desktop,New,United Kingdom,Search,5,2,No,No
+10690,Mobile,New,Germany,Direct,578,1,No,No
+10691,Desktop,Returning,Other,Direct,408,0,No,No
+10692,Mobile,Returning,United Kingdom,Discovery,308,6,No,No
+10693,Mobile,Returning,Netherlands,Direct,7,5,No,No
+10694,Mobile,Returning,Other,Direct,66,2,No,No
+10695,Desktop,Returning,Netherlands,Search,374,7,No,No
+10696,Desktop,Returning,Germany,Direct,51,5,No,No
+10697,Desktop,Returning,Germany,Direct,14,9,No,No
+10698,Mobile,Returning,Other,Search,187,0,No,No
+10699,Mobile,Returning,United Kingdom,Discovery,74,1,No,No
+10700,Desktop,Returning,Other,Direct,301,7,No,No
+10701,Desktop,Returning,Germany,Discovery,3,0,No,No
+10702,Desktop,Returning,United Kingdom,Search,467,2,Yes,Yes
+10703,Desktop,Returning,Other,Search,63,2,Yes,No
+10704,Desktop,Returning,France,Discovery,101,1,No,No
+10705,Desktop,New,France,Search,65,0,No,No
+10706,Desktop,Returning,Other,Search,76,2,No,No
+10707,Mobile,Returning,France,Search,398,1,No,No
+10708,Desktop,Returning,Netherlands,Direct,56,0,No,No
+10709,Mobile,Returning,Netherlands,Discovery,53,2,No,No
+10710,Desktop,Returning,United Kingdom,Search,210,2,No,No
+10711,Desktop,Returning,Other,Direct,516,2,No,No
+10712,Desktop,Returning,Netherlands,Discovery,404,5,Yes,No
+10713,Desktop,Returning,United Kingdom,Direct,369,1,No,No
+10714,Desktop,Returning,United Kingdom,Search,117,6,No,No
+10715,Desktop,Returning,United Kingdom,Direct,107,1,No,No
+10716,Mobile,Returning,Other,Direct,233,4,No,No
+10717,Desktop,Returning,United Kingdom,Discovery,550,2,Yes,Yes
+10718,Desktop,Returning,United Kingdom,Search,46,6,No,No
+10719,Desktop,Returning,France,Direct,117,0,No,No
+10720,Desktop,Returning,Germany,Direct,158,1,No,No
+10721,Desktop,Returning,United Kingdom,Discovery,134,0,Yes,Yes
+10722,Desktop,Returning,Germany,Discovery,101,6,No,No
+10723,Desktop,Returning,Other,Direct,422,0,No,No
+10724,Desktop,Returning,United Kingdom,Search,136,0,No,No
+10725,Mobile,Returning,Other,Discovery,19,0,No,No
+10726,Desktop,New,Germany,Search,44,3,No,No
+10727,Desktop,Returning,United Kingdom,Direct,482,0,Yes,Yes
+10728,Desktop,Returning,Germany,Direct,38,3,No,No
+10729,Mobile,Returning,Other,Search,249,1,No,No
+10730,Mobile,Returning,Netherlands,Search,144,4,No,No
+10731,Mobile,Returning,Other,Direct,29,0,No,No
+10732,Desktop,Returning,United Kingdom,Search,239,0,Yes,Yes
+10733,Desktop,Returning,United Kingdom,Direct,34,1,No,No
+10734,Mobile,Returning,France,Direct,10,5,No,No
+10735,Mobile,Returning,Other,Search,464,2,No,No
+10736,Mobile,Returning,France,Search,49,3,No,No
+10737,Desktop,New,United Kingdom,Direct,12,0,No,No
+10738,Desktop,Returning,France,Discovery,64,5,No,No
+10739,Desktop,New,Germany,Search,228,0,No,No
+10740,Desktop,Returning,Netherlands,Search,329,2,Yes,No
+10741,Desktop,Returning,Germany,Search,253,4,No,No
+10742,Mobile,Returning,Other,Direct,54,0,No,No
+10743,Desktop,Returning,Other,Discovery,56,4,No,No
+10744,Desktop,Returning,Netherlands,Direct,332,1,No,No
+10745,Desktop,Returning,Germany,Direct,252,0,No,No
+10746,Mobile,Returning,Other,Search,66,6,No,No
+10747,Desktop,Returning,Germany,Discovery,213,0,No,No
+10748,Mobile,Returning,Other,Search,422,7,No,No
+10749,Desktop,New,Other,Search,136,1,No,No
+10750,Desktop,Returning,France,Direct,40,0,No,No
+10751,Desktop,Returning,France,Direct,55,3,No,No
+10752,Mobile,Returning,Germany,Discovery,102,0,No,No
+10753,Mobile,Returning,France,Discovery,110,1,No,No
+10754,Desktop,Returning,Other,Search,501,2,Yes,Yes
+10755,Mobile,Returning,Netherlands,Search,50,1,No,No
+10756,Desktop,New,United Kingdom,Search,67,1,No,No
+10757,Desktop,Returning,France,Search,5,1,Yes,Yes
+10758,Desktop,New,Germany,Direct,17,1,No,No
+10759,Desktop,New,Other,Discovery,17,1,No,No
+10760,Mobile,Returning,Other,Discovery,418,1,No,No
+10761,Mobile,Returning,Other,Discovery,426,5,No,No
+10762,Mobile,Returning,France,Search,56,1,No,No
+10763,Desktop,Returning,Netherlands,Discovery,44,1,No,No
+10764,Desktop,Returning,Other,Direct,148,7,No,No
+10765,Desktop,New,Other,Discovery,168,0,No,No
+10766,Mobile,Returning,France,Discovery,86,3,No,No
+10767,Desktop,Returning,Germany,Search,18,3,No,No
+10768,Mobile,New,Germany,Discovery,357,1,No,No
+10769,Desktop,Returning,Other,Discovery,177,2,No,No
+10770,Desktop,Returning,Netherlands,Search,131,1,No,No
+10771,Desktop,Returning,United Kingdom,Search,344,1,No,No
+10772,Desktop,Returning,France,Search,340,7,Yes,No
+10773,Mobile,New,Other,Direct,198,4,No,No
+10774,Desktop,Returning,France,Direct,58,0,No,No
+10775,Desktop,Returning,Other,Discovery,9,1,No,No
+10776,Desktop,Returning,Other,Discovery,164,5,No,No
+10777,Mobile,Returning,France,Direct,67,3,No,No
+10778,Mobile,Returning,Germany,Search,2,0,No,No
+10779,Desktop,Returning,France,Direct,379,1,No,No
+10780,Desktop,Returning,United Kingdom,Direct,436,4,No,No
+10781,Desktop,Returning,France,Direct,3,5,No,No
+10782,Desktop,Returning,Other,Discovery,27,0,No,No
+10783,Mobile,Returning,Netherlands,Discovery,56,3,No,No
+10784,Desktop,New,Other,Discovery,79,4,No,No
+10785,Desktop,Returning,United Kingdom,Search,173,3,Yes,No
+10786,Desktop,Returning,Other,Direct,145,6,No,No
+10787,Mobile,Returning,Germany,Discovery,4,2,No,No
+10788,Desktop,Returning,Netherlands,Direct,34,2,No,No
+10789,Desktop,Returning,Other,Search,181,2,No,No
+10790,Desktop,Returning,Other,Discovery,191,0,No,No
+10791,Desktop,Returning,Other,Direct,158,2,No,No
+10792,Desktop,Returning,United Kingdom,Discovery,536,3,No,No
+10793,Desktop,Returning,Other,Direct,81,5,No,No
+10794,Mobile,New,Germany,Direct,403,6,No,No
+10795,Desktop,Returning,United Kingdom,Search,319,6,Yes,No
+10796,Desktop,Returning,France,Discovery,116,2,No,No
+10797,Desktop,Returning,France,Direct,123,0,No,No
+10798,Desktop,Returning,United Kingdom,Discovery,12,1,No,No
+10799,Desktop,Returning,Netherlands,Search,253,0,No,No
+10800,Desktop,New,United Kingdom,Search,2,1,No,No
+10801,Desktop,Returning,France,Search,281,2,No,No
+10802,Desktop,Returning,Other,Search,50,0,Yes,Yes
+10803,Desktop,Returning,United Kingdom,Direct,49,1,No,No
+10804,Desktop,Returning,Netherlands,Direct,33,0,No,No
+10805,Mobile,New,United Kingdom,Search,144,2,No,No
+10806,Mobile,Returning,France,Direct,235,2,No,No
+10807,Desktop,Returning,Netherlands,Direct,350,1,No,No
+10808,Desktop,Returning,Germany,Discovery,178,1,No,No
+10809,Desktop,Returning,Germany,Discovery,93,3,No,No
+10810,Desktop,Returning,United Kingdom,Direct,69,6,No,No
+10811,Desktop,Returning,France,Direct,8,2,No,No
+10812,Mobile,Returning,Netherlands,Discovery,81,6,No,No
+10813,Mobile,New,Other,Discovery,121,5,No,No
+10814,Desktop,New,United Kingdom,Direct,135,5,No,No
+10815,Desktop,Returning,France,Discovery,6,1,Yes,No
+10816,Desktop,Returning,France,Discovery,4,0,Yes,No
+10817,Mobile,Returning,Other,Search,85,10,No,No
+10818,Mobile,Returning,Other,Direct,407,9,No,No
+10819,Desktop,New,Netherlands,Search,317,4,No,No
+10820,Desktop,Returning,France,Discovery,6,2,No,No
+10821,Desktop,Returning,Other,Discovery,5,0,No,No
+10822,Desktop,New,Germany,Discovery,32,0,No,No
+10823,Desktop,Returning,United Kingdom,Direct,502,0,Yes,No
+10824,Desktop,Returning,Netherlands,Discovery,698,3,No,No
+10825,Desktop,New,Netherlands,Search,6,4,No,No
+10826,Desktop,New,Germany,Discovery,11,3,No,No
+10827,Desktop,New,Other,Direct,63,8,No,No
+10828,Mobile,Returning,France,Discovery,199,7,No,No
+10829,Desktop,Returning,United Kingdom,Discovery,69,7,No,No
+10830,Desktop,Returning,Netherlands,Discovery,64,0,Yes,No
+10831,Desktop,Returning,Other,Direct,20,3,No,No
+10832,Mobile,Returning,Other,Direct,82,0,No,No
+10833,Desktop,Returning,United Kingdom,Discovery,7,3,No,No
+10834,Desktop,New,France,Discovery,177,3,No,No
+10835,Desktop,Returning,Other,Search,103,6,No,No
+10836,Desktop,Returning,United Kingdom,Search,152,0,No,No
+10837,Mobile,Returning,Netherlands,Search,40,3,No,No
+10838,Desktop,Returning,Netherlands,Discovery,8,6,Yes,No
+10839,Desktop,New,Netherlands,Search,10,8,No,No
+10840,Desktop,Returning,United Kingdom,Discovery,146,4,No,No
+10841,Desktop,Returning,United Kingdom,Discovery,32,4,Yes,No
+10842,Desktop,Returning,Netherlands,Search,118,1,No,No
+10843,Mobile,New,Other,Direct,82,4,No,No
+10844,Desktop,Returning,Other,Search,234,1,Yes,No
+10845,Mobile,New,Other,Discovery,272,0,No,No
+10846,Mobile,New,Other,Search,58,2,No,No
+10847,Mobile,Returning,Netherlands,Search,175,0,No,No
+10848,Mobile,Returning,Netherlands,Discovery,116,3,No,No
+10849,Desktop,Returning,France,Search,4,3,No,No
+10850,Desktop,Returning,United Kingdom,Search,115,3,No,No
+10851,Desktop,Returning,France,Search,14,2,Yes,No
+10852,Desktop,Returning,Netherlands,Search,374,5,No,No
+10853,Desktop,Returning,Germany,Discovery,196,2,No,No
+10854,Mobile,Returning,United Kingdom,Direct,25,0,No,No
+10855,Desktop,Returning,France,Discovery,34,7,No,No
+10856,Mobile,Returning,Germany,Direct,98,0,No,No
+10857,Desktop,New,United Kingdom,Search,96,0,No,No
+10858,Desktop,Returning,Netherlands,Direct,368,0,No,No
+10859,Desktop,Returning,Germany,Discovery,53,2,No,No
+10860,Desktop,Returning,France,Discovery,340,0,No,No
+10861,Desktop,New,Germany,Discovery,25,3,No,No
+10862,Mobile,New,Germany,Discovery,95,0,No,No
+10863,Desktop,Returning,Other,Search,187,1,No,No
+10864,Desktop,Returning,Germany,Discovery,168,6,No,No
+10865,Desktop,Returning,Other,Discovery,163,2,No,No
+10866,Mobile,New,Netherlands,Search,239,5,No,No
+10867,Mobile,Returning,Germany,Discovery,423,0,No,No
+10868,Desktop,Returning,Netherlands,Discovery,139,2,Yes,No
+10869,Desktop,Returning,United Kingdom,Discovery,472,0,Yes,No
+10870,Desktop,Returning,France,Discovery,40,0,No,No
+10871,Desktop,Returning,Netherlands,Discovery,59,4,No,No
+10872,Desktop,Returning,Other,Direct,11,3,No,No
+10873,Desktop,Returning,Germany,Discovery,309,2,Yes,Yes
+10874,Desktop,Returning,France,Discovery,70,6,Yes,No
+10875,Desktop,Returning,Germany,Discovery,245,5,No,No
+10876,Desktop,Returning,United Kingdom,Search,271,2,No,No
+10877,Desktop,Returning,Netherlands,Search,14,2,No,No
+10878,Desktop,Returning,Netherlands,Direct,406,0,No,No
+10879,Desktop,Returning,France,Direct,138,6,No,No
+10880,Mobile,Returning,United Kingdom,Discovery,532,9,No,No
+10881,Desktop,Returning,United Kingdom,Discovery,13,3,No,No
+10882,Desktop,Returning,Other,Search,208,1,No,No
+10883,Desktop,Returning,United Kingdom,Search,78,0,No,No
+10884,Mobile,Returning,Germany,Search,377,0,No,No
+10885,Desktop,Returning,Netherlands,Search,80,0,Yes,Yes
+10886,Desktop,Returning,United Kingdom,Discovery,243,0,Yes,No
+10887,Desktop,New,United Kingdom,Direct,61,2,No,No
+10888,Desktop,Returning,United Kingdom,Discovery,54,1,No,No
+10889,Desktop,Returning,United Kingdom,Discovery,25,7,No,No
+10890,Mobile,Returning,Germany,Discovery,217,0,No,No
+10891,Desktop,Returning,United Kingdom,Search,436,5,No,No
+10892,Desktop,Returning,Netherlands,Discovery,98,0,No,No
+10893,Desktop,New,Netherlands,Discovery,646,8,No,No
+10894,Desktop,Returning,Netherlands,Discovery,267,5,Yes,No
+10895,Desktop,Returning,Germany,Search,269,0,No,No
+10896,Desktop,Returning,France,Search,361,6,No,No
+10897,Desktop,New,Other,Search,115,0,No,No
+10898,Mobile,Returning,Germany,Discovery,238,7,No,No
+10899,Desktop,Returning,Netherlands,Search,358,1,No,No
+10900,Desktop,Returning,Netherlands,Discovery,331,0,No,No
+10901,Desktop,New,United Kingdom,Search,6,6,No,No
+10902,Mobile,Returning,United Kingdom,Direct,69,0,No,No
+10903,Desktop,Returning,France,Direct,19,3,No,No
+10904,Mobile,Returning,Netherlands,Discovery,481,1,No,No
+10905,Mobile,Returning,Germany,Direct,64,5,No,No
+10906,Desktop,Returning,Netherlands,Direct,115,0,No,No
+10907,Desktop,Returning,France,Search,302,1,No,No
+10908,Desktop,Returning,Germany,Direct,38,0,No,No
+10909,Desktop,Returning,Netherlands,Search,483,1,Yes,Yes
+10910,Mobile,Returning,United Kingdom,Search,387,0,No,No
+10911,Mobile,Returning,United Kingdom,Search,239,2,No,No
+10912,Desktop,New,Other,Direct,15,5,No,No
+10913,Desktop,New,France,Discovery,54,3,No,No
+10914,Desktop,Returning,Germany,Discovery,76,0,Yes,No
+10915,Desktop,Returning,Netherlands,Search,234,3,No,No
+10916,Desktop,New,Germany,Discovery,83,3,No,No
+10917,Mobile,Returning,Other,Search,117,2,No,No
+10918,Desktop,New,United Kingdom,Discovery,161,2,No,No
+10919,Desktop,Returning,Netherlands,Direct,129,3,No,No
+10920,Desktop,Returning,Netherlands,Direct,10,2,No,No
+10921,Desktop,Returning,Other,Discovery,169,3,No,No
+10922,Desktop,Returning,Germany,Discovery,55,2,No,No
+10923,Mobile,New,Germany,Direct,74,6,No,No
+10924,Mobile,Returning,Other,Search,9,4,No,No
+10925,Desktop,Returning,France,Search,92,8,No,No
+10926,Desktop,Returning,France,Direct,146,1,No,No
+10927,Desktop,Returning,France,Discovery,50,2,Yes,No
+10928,Mobile,Returning,Netherlands,Discovery,455,0,No,No
+10929,Mobile,Returning,Germany,Search,334,0,No,No
+10930,Desktop,Returning,Netherlands,Discovery,74,3,Yes,No
+10931,Mobile,Returning,Germany,Direct,21,0,No,No
+10932,Desktop,Returning,Germany,Direct,341,1,No,No
+10933,Mobile,Returning,Germany,Direct,208,6,No,No
+10934,Desktop,Returning,Other,Discovery,204,5,No,No
+10935,Desktop,Returning,France,Search,125,1,Yes,Yes
+10936,Mobile,Returning,United Kingdom,Discovery,352,7,No,No
+10937,Desktop,Returning,Other,Direct,55,0,No,No
+10938,Desktop,Returning,Other,Discovery,69,2,Yes,Yes
+10939,Desktop,Returning,Germany,Direct,60,6,No,No
+10940,Desktop,Returning,United Kingdom,Discovery,167,1,No,No
+10941,Desktop,Returning,United Kingdom,Direct,30,0,Yes,No
+10942,Mobile,Returning,Netherlands,Discovery,67,0,No,No
+10943,Mobile,Returning,Germany,Direct,315,3,No,No
+10944,Desktop,Returning,Germany,Discovery,65,7,Yes,No
+10945,Mobile,Returning,Other,Search,345,1,No,No
+10946,Mobile,Returning,Netherlands,Search,26,1,No,No
+10947,Mobile,Returning,Other,Discovery,7,0,No,No
+10948,Mobile,Returning,Other,Discovery,60,0,No,No
+10949,Desktop,New,France,Direct,66,4,No,No
+10950,Desktop,New,United Kingdom,Direct,300,4,No,No
+10951,Desktop,Returning,Netherlands,Search,79,4,No,No
+10952,Mobile,Returning,Germany,Search,126,0,No,No
+10953,Mobile,Returning,Netherlands,Search,358,1,No,No
+10954,Desktop,Returning,United Kingdom,Direct,238,1,No,No
+10955,Mobile,Returning,France,Direct,128,2,No,No
+10956,Desktop,Returning,Other,Discovery,293,7,No,No
+10957,Desktop,New,France,Direct,49,4,No,No
+10958,Desktop,Returning,Other,Discovery,53,2,No,No
+10959,Desktop,Returning,United Kingdom,Search,453,0,No,No
+10960,Desktop,Returning,Netherlands,Search,51,0,No,No
+10961,Desktop,Returning,United Kingdom,Direct,27,1,Yes,No
+10962,Desktop,Returning,United Kingdom,Direct,161,0,No,No
+10963,Desktop,Returning,United Kingdom,Search,65,2,No,No
+10964,Desktop,Returning,United Kingdom,Direct,265,7,Yes,Yes
+10965,Desktop,Returning,France,Direct,147,0,No,No
+10966,Mobile,Returning,United Kingdom,Direct,196,0,No,No
+10967,Mobile,Returning,United Kingdom,Search,229,0,No,No
+10968,Desktop,New,France,Direct,356,0,No,No
+10969,Desktop,Returning,France,Search,29,2,Yes,No
+10970,Desktop,Returning,Germany,Search,25,2,No,No
+10971,Desktop,Returning,Germany,Discovery,229,3,Yes,Yes
+10972,Desktop,New,Germany,Direct,62,2,No,No
+10973,Desktop,New,Other,Search,35,8,No,No
+10974,Desktop,Returning,Netherlands,Direct,312,3,No,No
+10975,Mobile,Returning,Other,Discovery,405,0,No,No
+10976,Desktop,New,Netherlands,Direct,9,0,No,No
+10977,Desktop,Returning,United Kingdom,Discovery,13,6,No,No
+10978,Desktop,Returning,Netherlands,Discovery,148,4,Yes,Yes
+10979,Desktop,Returning,France,Direct,47,7,No,No
+10980,Mobile,Returning,Other,Discovery,170,2,No,No
+10981,Desktop,Returning,France,Search,90,3,No,No
+10982,Mobile,Returning,Other,Discovery,77,6,No,No
+10983,Mobile,Returning,Netherlands,Discovery,293,1,No,No
+10984,Desktop,Returning,United Kingdom,Direct,7,2,No,No
+10985,Desktop,Returning,Other,Discovery,274,3,Yes,No
+10986,Desktop,Returning,Netherlands,Search,79,1,No,No
+10987,Desktop,Returning,France,Discovery,15,3,No,No
+10988,Desktop,Returning,France,Direct,283,0,No,No
+10989,Mobile,Returning,Other,Search,40,2,No,No
+10990,Desktop,Returning,United Kingdom,Search,122,8,Yes,Yes
+10991,Desktop,Returning,Other,Search,315,0,No,No
+10992,Desktop,Returning,Other,Search,37,1,Yes,No
+10993,Desktop,Returning,France,Discovery,63,2,No,No
+10994,Desktop,New,Other,Discovery,70,3,No,No
+10995,Mobile,Returning,France,Direct,189,8,No,No
+10996,Desktop,Returning,Netherlands,Discovery,40,5,No,No
+10997,Desktop,Returning,United Kingdom,Search,61,0,No,No
+10998,Mobile,New,Netherlands,Direct,108,1,No,No
+10999,Desktop,Returning,Netherlands,Direct,193,1,No,No
+11000,Desktop,Returning,United Kingdom,Discovery,22,1,No,No
+11001,Mobile,Returning,United Kingdom,Search,382,3,No,No
+11002,Desktop,Returning,Germany,Discovery,63,4,No,No
+11003,Mobile,Returning,Other,Direct,298,3,No,No
+11004,Desktop,New,Netherlands,Search,138,1,No,No
+11005,Desktop,Returning,United Kingdom,Discovery,90,3,No,No
+11006,Desktop,Returning,Netherlands,Direct,152,3,No,No
+11007,Mobile,Returning,Other,Direct,9,0,No,No
+11008,Desktop,Returning,France,Discovery,155,7,No,No
+11009,Desktop,Returning,United Kingdom,Search,33,2,No,No
+11010,Desktop,Returning,United Kingdom,Search,33,2,Yes,No
+11011,Desktop,Returning,United Kingdom,Search,443,0,Yes,No
+11012,Desktop,Returning,United Kingdom,Direct,478,1,No,No
+11013,Desktop,Returning,Germany,Direct,441,4,No,No
+11014,Desktop,Returning,United Kingdom,Search,176,3,No,No
+11015,Desktop,Returning,Germany,Search,345,0,No,No
+11016,Mobile,New,Germany,Direct,343,3,No,No
+11017,Desktop,New,Other,Search,13,9,No,No
+11018,Desktop,Returning,Germany,Search,252,1,No,No
+11019,Desktop,Returning,Other,Search,408,7,No,No
+11020,Desktop,Returning,France,Direct,85,0,No,No
+11021,Desktop,Returning,France,Discovery,22,5,No,No
+11022,Desktop,Returning,Netherlands,Search,98,8,No,No
+11023,Desktop,New,Netherlands,Search,23,2,No,No
+11024,Mobile,Returning,Netherlands,Direct,51,0,No,No
+11025,Desktop,Returning,United Kingdom,Direct,460,1,No,No
+11026,Desktop,Returning,United Kingdom,Direct,208,0,No,No
+11027,Desktop,Returning,United Kingdom,Discovery,140,0,No,No
+11028,Desktop,Returning,Germany,Search,8,1,No,No
+11029,Desktop,New,France,Direct,114,0,No,No
+11030,Desktop,Returning,United Kingdom,Search,54,2,No,No
+11031,Desktop,New,Germany,Direct,247,0,No,No
+11032,Mobile,Returning,Other,Direct,501,0,No,No
+11033,Desktop,Returning,France,Search,328,0,Yes,No
+11034,Desktop,Returning,Other,Direct,503,7,No,No
+11035,Desktop,Returning,United Kingdom,Discovery,16,1,Yes,Yes
+11036,Desktop,Returning,Netherlands,Direct,273,0,No,No
+11037,Desktop,Returning,France,Discovery,154,1,No,No
+11038,Desktop,Returning,France,Discovery,11,6,No,No
+11039,Desktop,Returning,Other,Discovery,210,2,No,No
+11040,Desktop,Returning,Germany,Discovery,131,1,Yes,No
+11041,Desktop,Returning,Netherlands,Direct,57,1,No,No
+11042,Desktop,Returning,Germany,Direct,2,5,No,No
+11043,Desktop,Returning,Other,Direct,390,0,No,No
+11044,Desktop,Returning,Other,Direct,173,1,No,No
+11045,Desktop,Returning,France,Direct,140,5,No,No
+11046,Desktop,Returning,Other,Discovery,103,2,No,No
+11047,Desktop,Returning,United Kingdom,Search,343,0,No,No
+11048,Desktop,Returning,France,Discovery,211,1,Yes,No
+11049,Desktop,New,France,Search,165,1,No,No
+11050,Mobile,New,Netherlands,Discovery,148,0,No,No
+11051,Mobile,Returning,Netherlands,Direct,146,0,No,No
+11052,Desktop,Returning,Netherlands,Discovery,282,0,No,No
+11053,Desktop,Returning,Netherlands,Direct,56,2,No,No
+11054,Desktop,Returning,Other,Search,183,3,No,No
+11055,Desktop,Returning,France,Search,230,7,No,No
+11056,Desktop,Returning,Other,Search,255,3,No,No
+11057,Desktop,Returning,United Kingdom,Direct,24,0,No,No
+11058,Mobile,Returning,France,Direct,465,6,No,No
+11059,Desktop,Returning,France,Discovery,85,2,No,No
+11060,Desktop,Returning,France,Search,22,0,No,No
+11061,Mobile,Returning,Other,Discovery,43,1,No,No
+11062,Desktop,New,United Kingdom,Direct,48,0,No,No
+11063,Mobile,Returning,Germany,Direct,54,1,No,No
+11064,Desktop,Returning,Germany,Search,12,0,No,No
+11065,Desktop,Returning,France,Search,169,3,No,No
+11066,Desktop,Returning,Netherlands,Direct,18,2,No,No
+11067,Desktop,New,Other,Search,72,2,No,No
+11068,Mobile,Returning,Germany,Search,9,6,No,No
+11069,Desktop,Returning,Germany,Search,428,2,Yes,No
+11070,Mobile,Returning,Germany,Search,333,1,No,No
+11071,Desktop,Returning,United Kingdom,Direct,301,0,No,No
+11072,Desktop,New,France,Direct,37,0,No,No
+11073,Desktop,New,Germany,Search,73,1,No,No
+11074,Desktop,Returning,United Kingdom,Discovery,45,9,No,No
+11075,Desktop,Returning,Germany,Discovery,48,10,Yes,No
+11076,Desktop,Returning,United Kingdom,Discovery,41,7,Yes,No
+11077,Desktop,Returning,United Kingdom,Discovery,517,6,No,No
+11078,Desktop,Returning,Other,Direct,227,3,No,No
+11079,Desktop,Returning,Netherlands,Search,450,1,Yes,No
+11080,Desktop,Returning,Germany,Search,39,0,Yes,Yes
+11081,Desktop,Returning,United Kingdom,Search,267,4,No,No
+11082,Mobile,Returning,Netherlands,Search,56,2,No,No
+11083,Desktop,Returning,United Kingdom,Discovery,275,6,No,No
+11084,Desktop,New,France,Discovery,35,1,No,No
+11085,Desktop,Returning,United Kingdom,Discovery,77,1,No,No
+11086,Mobile,Returning,Netherlands,Direct,190,6,No,No
+11087,Desktop,Returning,Germany,Search,147,0,No,No
+11088,Mobile,Returning,Other,Direct,94,0,No,No
+11089,Desktop,Returning,Other,Search,66,0,No,No
+11090,Desktop,Returning,United Kingdom,Direct,154,2,No,No
+11091,Desktop,Returning,United Kingdom,Discovery,533,0,Yes,No
+11092,Desktop,Returning,Other,Discovery,35,0,No,No
+11093,Desktop,New,France,Search,526,7,No,No
+11094,Desktop,Returning,France,Direct,166,0,No,No
+11095,Mobile,New,Germany,Direct,270,1,No,No
+11096,Desktop,Returning,Germany,Direct,451,0,No,No
+11097,Desktop,Returning,United Kingdom,Search,43,8,Yes,Yes
+11098,Desktop,Returning,United Kingdom,Search,184,1,Yes,No
+11099,Mobile,Returning,France,Direct,550,5,No,No
+11100,Mobile,Returning,Other,Direct,28,1,No,No
+11101,Desktop,Returning,Other,Discovery,532,0,Yes,Yes
+11102,Mobile,New,France,Search,23,4,No,No
+11103,Desktop,Returning,Other,Direct,25,7,No,No
+11104,Desktop,Returning,Other,Search,352,2,No,No
+11105,Desktop,Returning,Netherlands,Direct,15,0,No,No
+11106,Desktop,Returning,Other,Search,279,0,No,No
+11107,Mobile,Returning,France,Discovery,143,1,No,No
+11108,Mobile,Returning,France,Discovery,222,1,No,No
+11109,Desktop,New,France,Search,16,2,No,No
+11110,Desktop,Returning,France,Discovery,250,1,No,No
+11111,Desktop,New,United Kingdom,Search,437,1,No,No
+11112,Desktop,Returning,France,Search,17,9,Yes,No
+11113,Mobile,Returning,France,Discovery,292,1,No,No
+11114,Desktop,Returning,United Kingdom,Discovery,398,2,Yes,Yes
+11115,Desktop,Returning,United Kingdom,Direct,484,0,No,No
+11116,Desktop,Returning,France,Direct,93,4,No,No
+11117,Desktop,New,Netherlands,Search,244,6,No,No
+11118,Desktop,Returning,France,Discovery,153,1,No,No
+11119,Mobile,Returning,France,Search,10,1,No,No
+11120,Desktop,New,France,Search,105,3,No,No
+11121,Desktop,Returning,France,Direct,24,4,No,No
+11122,Desktop,Returning,Other,Direct,464,0,No,No
+11123,Desktop,Returning,Germany,Direct,356,6,No,No
+11124,Mobile,Returning,France,Discovery,133,4,No,No
+11125,Desktop,Returning,Germany,Direct,54,2,No,No
+11126,Desktop,Returning,Netherlands,Direct,123,0,No,No
+11127,Desktop,Returning,France,Discovery,8,5,No,No
+11128,Desktop,Returning,Netherlands,Discovery,12,3,No,No
+11129,Desktop,Returning,France,Search,43,2,Yes,No
+11130,Mobile,Returning,France,Discovery,50,2,No,No
+11131,Desktop,Returning,Other,Discovery,7,0,No,No
+11132,Desktop,Returning,Other,Discovery,17,0,No,No
+11133,Mobile,Returning,France,Search,321,1,No,No
+11134,Mobile,Returning,France,Search,249,1,No,No
+11135,Desktop,Returning,France,Direct,0,3,No,No
+11136,Desktop,Returning,France,Direct,173,0,No,No
+11137,Desktop,Returning,Germany,Search,224,0,Yes,No
+11138,Desktop,Returning,France,Discovery,282,7,No,No
+11139,Desktop,Returning,United Kingdom,Discovery,37,3,Yes,No
+11140,Desktop,Returning,France,Direct,229,3,No,No
+11141,Desktop,Returning,United Kingdom,Direct,120,2,No,No
+11142,Desktop,Returning,Netherlands,Search,143,4,No,No
+11143,Desktop,Returning,France,Search,193,0,No,No
+11144,Mobile,Returning,Other,Direct,11,2,No,No
+11145,Desktop,Returning,Germany,Discovery,3,1,No,No
+11146,Mobile,New,United Kingdom,Direct,160,2,No,No
+11147,Desktop,Returning,Other,Direct,383,9,No,No
+11148,Desktop,Returning,Germany,Direct,490,1,No,No
+11149,Desktop,Returning,United Kingdom,Direct,139,2,No,No
+11150,Desktop,Returning,France,Direct,299,3,No,No
+11151,Desktop,New,Other,Search,449,1,No,No
+11152,Desktop,Returning,Netherlands,Direct,275,9,No,No
+11153,Desktop,Returning,France,Direct,129,5,No,No
+11154,Desktop,Returning,Other,Discovery,136,4,No,No
+11155,Desktop,Returning,Other,Discovery,40,7,No,No
+11156,Desktop,Returning,Other,Direct,91,0,No,No
+11157,Mobile,Returning,France,Direct,449,0,No,No
+11158,Desktop,Returning,Germany,Search,90,5,No,No
+11159,Desktop,Returning,United Kingdom,Direct,185,3,No,No
+11160,Desktop,Returning,United Kingdom,Discovery,29,0,Yes,No
+11161,Mobile,Returning,United Kingdom,Search,326,1,No,No
+11162,Desktop,Returning,Netherlands,Direct,13,0,No,No
+11163,Desktop,New,Other,Direct,5,1,No,No
+11164,Mobile,Returning,France,Search,7,7,No,No
+11165,Desktop,Returning,Other,Discovery,289,3,No,No
+11166,Desktop,Returning,United Kingdom,Direct,76,2,No,No
+11167,Desktop,Returning,Germany,Search,19,4,No,No
+11168,Desktop,Returning,Netherlands,Direct,144,2,No,No
+11169,Mobile,Returning,Other,Discovery,282,1,No,No
+11170,Desktop,New,Other,Search,66,2,No,No
+11171,Desktop,Returning,United Kingdom,Direct,250,1,No,No
+11172,Desktop,Returning,Germany,Direct,150,4,No,No
+11173,Desktop,Returning,Netherlands,Search,264,7,No,No
+11174,Mobile,Returning,Netherlands,Search,530,2,No,No
+11175,Desktop,Returning,Other,Search,374,1,Yes,No
+11176,Mobile,Returning,Netherlands,Direct,11,0,No,No
+11177,Desktop,Returning,United Kingdom,Discovery,6,3,No,No
+11178,Mobile,Returning,Netherlands,Direct,54,2,No,No
+11179,Mobile,Returning,Other,Search,3,0,No,No
+11180,Desktop,Returning,France,Discovery,128,4,Yes,No
+11181,Desktop,Returning,Netherlands,Discovery,179,2,No,No
+11182,Desktop,Returning,United Kingdom,Search,18,0,Yes,No
+11183,Desktop,New,Germany,Search,138,1,No,No
+11184,Desktop,Returning,Other,Search,141,5,Yes,Yes
+11185,Desktop,Returning,Other,Search,32,6,No,No
+11186,Desktop,Returning,United Kingdom,Discovery,19,0,No,No
+11187,Mobile,Returning,Netherlands,Search,155,7,No,No
+11188,Desktop,New,Germany,Discovery,56,2,No,No
+11189,Desktop,New,Netherlands,Search,272,4,No,No
+11190,Desktop,Returning,Germany,Discovery,50,6,No,No
+11191,Mobile,Returning,France,Direct,26,4,No,No
+11192,Mobile,Returning,France,Search,148,0,No,No
+11193,Desktop,Returning,Germany,Direct,4,0,No,No
+11194,Mobile,New,Germany,Search,164,4,No,No
+11195,Desktop,Returning,United Kingdom,Discovery,58,3,Yes,No
+11196,Desktop,New,Netherlands,Search,44,2,No,No
+11197,Desktop,Returning,Other,Discovery,203,3,Yes,No
+11198,Mobile,Returning,Other,Search,259,1,No,No
+11199,Desktop,Returning,Germany,Search,194,3,No,No
+11200,Desktop,Returning,Netherlands,Discovery,92,0,Yes,Yes
+11201,Desktop,Returning,United Kingdom,Discovery,7,2,No,No
+11202,Desktop,Returning,Germany,Direct,299,5,No,No
+11203,Desktop,New,Netherlands,Discovery,30,7,No,No
+11204,Desktop,Returning,Netherlands,Direct,43,0,No,No
+11205,Desktop,Returning,Other,Search,59,3,No,No
+11206,Desktop,New,Germany,Discovery,33,0,No,No
+11207,Desktop,Returning,Netherlands,Discovery,549,2,No,No
+11208,Desktop,Returning,United Kingdom,Search,193,0,Yes,No
+11209,Mobile,Returning,Germany,Search,369,0,No,No
+11210,Desktop,Returning,Other,Direct,21,3,No,No
+11211,Desktop,Returning,Netherlands,Discovery,163,0,No,No
+11212,Desktop,Returning,United Kingdom,Search,254,6,No,No
+11213,Desktop,Returning,Germany,Search,12,0,No,No
+11214,Desktop,Returning,Netherlands,Search,27,2,No,No
+11215,Desktop,New,Germany,Direct,323,3,No,No
+11216,Mobile,Returning,Netherlands,Direct,475,5,No,No
+11217,Desktop,Returning,United Kingdom,Direct,54,2,No,No
+11218,Desktop,Returning,Other,Direct,216,7,No,No
+11219,Mobile,Returning,Netherlands,Discovery,386,0,No,No
+11220,Desktop,Returning,Netherlands,Search,452,4,Yes,No
+11221,Mobile,New,Netherlands,Search,181,4,No,No
+11222,Mobile,Returning,United Kingdom,Discovery,541,2,No,No
+11223,Desktop,New,Germany,Discovery,146,0,No,No
+11224,Desktop,Returning,France,Direct,126,3,No,No
+11225,Mobile,Returning,Germany,Direct,96,1,No,No
+11226,Desktop,Returning,Netherlands,Discovery,148,3,Yes,Yes
+11227,Desktop,Returning,Netherlands,Discovery,26,4,No,No
+11228,Mobile,New,Netherlands,Search,260,4,No,No
+11229,Desktop,Returning,Other,Discovery,122,2,No,No
+11230,Mobile,Returning,Germany,Discovery,82,1,No,No
+11231,Desktop,Returning,Netherlands,Search,452,3,Yes,No
+11232,Mobile,Returning,Other,Search,263,1,No,No
+11233,Desktop,Returning,Netherlands,Search,100,2,No,No
+11234,Desktop,Returning,Germany,Direct,54,1,No,No
+11235,Desktop,Returning,Germany,Search,225,3,No,No
+11236,Desktop,Returning,Netherlands,Search,590,0,No,No
+11237,Desktop,Returning,Netherlands,Search,512,0,No,No
+11238,Desktop,Returning,France,Search,132,4,Yes,No
+11239,Mobile,Returning,France,Search,46,0,No,No
+11240,Desktop,Returning,Netherlands,Discovery,26,1,Yes,Yes
+11241,Desktop,Returning,Other,Search,69,4,No,No
+11242,Desktop,Returning,Netherlands,Direct,138,0,No,No
+11243,Desktop,Returning,Germany,Direct,607,4,No,No
+11244,Mobile,New,United Kingdom,Direct,473,2,No,No
+11245,Desktop,Returning,Other,Discovery,113,7,No,No
+11246,Desktop,Returning,United Kingdom,Discovery,392,0,No,No
+11247,Mobile,Returning,Other,Direct,258,4,No,No
+11248,Mobile,Returning,France,Direct,72,2,No,No
+11249,Desktop,Returning,Other,Direct,213,1,No,No
+11250,Mobile,New,France,Direct,1,2,No,No
+11251,Mobile,Returning,Germany,Direct,22,3,No,No
+11252,Desktop,Returning,France,Direct,179,2,No,No
+11253,Desktop,Returning,United Kingdom,Direct,62,2,No,No
+11254,Desktop,Returning,France,Search,166,9,No,No
+11255,Desktop,New,Germany,Discovery,141,0,No,No
+11256,Mobile,Returning,United Kingdom,Search,288,0,No,No
+11257,Desktop,Returning,Netherlands,Direct,110,6,No,No
+11258,Mobile,Returning,France,Discovery,217,1,No,No
+11259,Desktop,Returning,United Kingdom,Search,70,0,Yes,No
+11260,Desktop,Returning,United Kingdom,Search,118,9,Yes,No
+11261,Desktop,Returning,France,Search,62,3,Yes,Yes
+11262,Desktop,Returning,United Kingdom,Direct,232,2,No,No
+11263,Desktop,Returning,Germany,Discovery,75,9,No,No
+11264,Desktop,Returning,Netherlands,Search,111,4,No,No
+11265,Mobile,Returning,France,Search,416,1,No,No
+11266,Mobile,New,Other,Discovery,5,5,No,No
+11267,Desktop,Returning,France,Search,5,1,No,No
+11268,Mobile,Returning,Netherlands,Discovery,13,0,No,No
+11269,Desktop,Returning,United Kingdom,Discovery,241,6,Yes,Yes
+11270,Desktop,New,United Kingdom,Discovery,343,2,No,No
+11271,Desktop,Returning,Netherlands,Discovery,36,1,Yes,No
+11272,Desktop,New,Other,Discovery,115,2,No,No
+11273,Desktop,Returning,United Kingdom,Discovery,318,0,Yes,No
+11274,Desktop,New,Germany,Search,194,3,No,No
+11275,Desktop,New,Other,Direct,528,5,No,No
+11276,Desktop,Returning,France,Search,160,4,No,No
+11277,Mobile,Returning,Other,Direct,101,4,No,No
+11278,Desktop,New,Other,Search,128,4,No,No
+11279,Mobile,Returning,Other,Search,100,0,No,No
+11280,Desktop,Returning,Netherlands,Search,1,1,Yes,Yes
+11281,Desktop,Returning,Other,Search,2,3,No,No
+11282,Desktop,Returning,Germany,Direct,87,3,No,No
+11283,Mobile,Returning,Germany,Search,178,0,No,No
+11284,Mobile,Returning,France,Direct,48,6,No,No
+11285,Desktop,Returning,Netherlands,Discovery,60,4,No,No
+11286,Desktop,Returning,Other,Direct,44,8,No,No
+11287,Mobile,Returning,Germany,Search,113,1,No,No
+11288,Mobile,Returning,Other,Discovery,85,0,No,No
+11289,Desktop,Returning,Other,Direct,223,0,No,No
+11290,Mobile,Returning,Other,Search,286,9,No,No
+11291,Desktop,Returning,Netherlands,Direct,90,0,No,No
+11292,Desktop,Returning,United Kingdom,Search,157,0,No,No
+11293,Mobile,New,United Kingdom,Direct,77,0,No,No
+11294,Desktop,Returning,Germany,Search,32,1,No,No
+11295,Desktop,New,France,Direct,286,1,No,No
+11296,Mobile,New,France,Discovery,377,4,No,No
+11297,Mobile,Returning,Other,Discovery,157,0,No,No
+11298,Desktop,Returning,Germany,Direct,427,1,No,No
+11299,Desktop,Returning,Other,Search,43,5,No,No
+11300,Desktop,Returning,Netherlands,Direct,138,0,No,No
+11301,Desktop,Returning,France,Direct,374,3,No,No
+11302,Desktop,Returning,Germany,Direct,346,0,No,No
+11303,Desktop,Returning,France,Direct,78,9,No,No
+11304,Mobile,Returning,Netherlands,Search,401,6,No,No
+11305,Desktop,Returning,Germany,Search,561,5,No,No
+11306,Mobile,Returning,Germany,Discovery,287,3,No,No
+11307,Mobile,Returning,Netherlands,Direct,68,5,No,No
+11308,Desktop,Returning,United Kingdom,Search,11,0,No,No
+11309,Desktop,Returning,United Kingdom,Direct,442,3,No,No
+11310,Desktop,Returning,United Kingdom,Search,88,3,No,No
+11311,Mobile,Returning,Other,Discovery,135,1,No,No
+11312,Mobile,Returning,Germany,Search,50,1,No,No
+11313,Desktop,Returning,United Kingdom,Discovery,112,3,No,No
+11314,Mobile,New,Netherlands,Search,288,1,No,No
+11315,Desktop,Returning,Other,Search,340,1,No,No
+11316,Mobile,Returning,United Kingdom,Search,157,2,No,No
+11317,Mobile,New,Netherlands,Discovery,351,3,No,No
+11318,Desktop,Returning,United Kingdom,Search,366,7,Yes,No
+11319,Desktop,Returning,France,Discovery,218,2,No,No
+11320,Mobile,Returning,United Kingdom,Search,163,2,No,No
+11321,Desktop,Returning,Other,Direct,262,4,No,No
+11322,Desktop,Returning,United Kingdom,Discovery,282,0,No,No
+11323,Desktop,Returning,Other,Direct,1,0,No,No
+11324,Desktop,Returning,Other,Direct,13,0,No,No
+11325,Mobile,Returning,Germany,Direct,39,4,No,No
+11326,Desktop,Returning,Netherlands,Discovery,55,1,Yes,Yes
+11327,Desktop,Returning,Netherlands,Search,251,2,No,No
+11328,Desktop,Returning,Other,Direct,94,2,No,No
+11329,Desktop,Returning,United Kingdom,Direct,71,5,No,No
+11330,Desktop,Returning,United Kingdom,Discovery,95,5,Yes,Yes
+11331,Desktop,Returning,Other,Direct,161,0,No,No
+11332,Mobile,Returning,Germany,Search,132,7,No,No
+11333,Desktop,New,Other,Discovery,93,10,No,No
+11334,Desktop,Returning,France,Discovery,6,3,No,No
+11335,Mobile,New,Other,Search,15,4,No,No
+11336,Desktop,Returning,France,Direct,308,4,No,No
+11337,Desktop,Returning,France,Search,409,8,No,No
+11338,Desktop,Returning,Netherlands,Search,77,3,Yes,No
+11339,Desktop,Returning,France,Discovery,39,1,No,No
+11340,Desktop,Returning,United Kingdom,Search,143,5,No,No
+11341,Desktop,New,Germany,Direct,31,1,No,No
+11342,Desktop,Returning,United Kingdom,Direct,144,1,No,No
+11343,Desktop,Returning,United Kingdom,Discovery,304,0,Yes,Yes
+11344,Desktop,Returning,Germany,Direct,134,7,No,No
+11345,Desktop,New,Other,Discovery,231,2,No,No
+11346,Desktop,Returning,Netherlands,Direct,493,1,No,No
+11347,Desktop,Returning,Germany,Direct,426,6,No,No
+11348,Mobile,Returning,France,Search,216,1,No,No
+11349,Desktop,Returning,Other,Discovery,18,3,No,No
+11350,Desktop,Returning,Netherlands,Direct,100,0,No,No
+11351,Desktop,Returning,Netherlands,Direct,221,2,No,No
+11352,Mobile,Returning,Other,Direct,368,1,No,No
+11353,Desktop,Returning,Other,Discovery,144,7,No,No
+11354,Desktop,Returning,Netherlands,Direct,452,1,No,No
+11355,Mobile,Returning,France,Search,291,0,No,No
+11356,Desktop,Returning,United Kingdom,Discovery,70,3,Yes,No
+11357,Desktop,Returning,Netherlands,Search,114,1,No,No
+11358,Desktop,New,France,Discovery,519,0,No,No
+11359,Desktop,Returning,France,Direct,506,3,No,No
+11360,Desktop,New,France,Search,146,4,No,No
+11361,Mobile,Returning,France,Discovery,18,1,No,No
+11362,Mobile,Returning,France,Direct,72,3,No,No
+11363,Desktop,Returning,Germany,Search,401,2,No,No
+11364,Desktop,New,Netherlands,Discovery,3,1,No,No
+11365,Desktop,Returning,United Kingdom,Discovery,362,6,Yes,No
+11366,Desktop,Returning,Other,Discovery,252,3,No,No
+11367,Desktop,Returning,Other,Search,90,0,No,No
+11368,Desktop,Returning,Netherlands,Search,323,9,Yes,Yes
+11369,Mobile,Returning,Germany,Discovery,258,3,No,No
+11370,Mobile,Returning,Other,Direct,218,6,No,No
+11371,Mobile,Returning,Netherlands,Discovery,13,1,No,No
+11372,Desktop,Returning,France,Discovery,333,6,No,No
+11373,Mobile,Returning,Netherlands,Search,104,0,No,No
+11374,Mobile,Returning,Germany,Discovery,113,4,No,No
+11375,Desktop,Returning,Netherlands,Search,508,0,No,No
+11376,Mobile,Returning,France,Discovery,177,0,No,No
+11377,Desktop,Returning,Other,Direct,89,1,No,No
+11378,Desktop,Returning,France,Discovery,143,2,No,No
+11379,Desktop,New,United Kingdom,Discovery,25,7,No,No
+11380,Desktop,Returning,Netherlands,Search,90,3,No,No
+11381,Mobile,Returning,United Kingdom,Direct,164,1,No,No
+11382,Desktop,Returning,Germany,Search,174,4,No,No
+11383,Desktop,New,Germany,Search,11,0,No,No
+11384,Desktop,Returning,Germany,Search,434,0,No,No
+11385,Desktop,Returning,France,Discovery,544,1,No,No
+11386,Mobile,Returning,Germany,Direct,253,5,No,No
+11387,Mobile,Returning,United Kingdom,Search,306,0,No,No
+11388,Desktop,Returning,Germany,Discovery,11,5,No,No
+11389,Desktop,Returning,Germany,Search,236,2,No,No
+11390,Desktop,New,Germany,Discovery,206,1,No,No
+11391,Desktop,New,Germany,Direct,347,4,No,No
+11392,Mobile,Returning,Other,Direct,0,3,No,No
+11393,Mobile,Returning,France,Search,173,0,No,No
+11394,Desktop,Returning,Germany,Discovery,338,0,No,No
+11395,Desktop,Returning,Netherlands,Search,331,1,Yes,Yes
+11396,Desktop,Returning,United Kingdom,Discovery,197,1,Yes,Yes
+11397,Desktop,Returning,Netherlands,Discovery,335,2,No,No
+11398,Mobile,Returning,United Kingdom,Search,398,0,No,No
+11399,Mobile,New,United Kingdom,Search,6,2,No,No
+11400,Mobile,Returning,United Kingdom,Direct,265,0,No,No
+11401,Desktop,Returning,United Kingdom,Direct,58,5,Yes,No
+11402,Desktop,Returning,Other,Discovery,126,1,No,No
+11403,Desktop,Returning,Netherlands,Discovery,37,1,Yes,No
+11404,Desktop,Returning,France,Search,281,6,No,No
+11405,Mobile,Returning,United Kingdom,Search,31,1,No,No
+11406,Desktop,Returning,Germany,Direct,290,1,No,No
+11407,Desktop,Returning,Other,Direct,269,3,No,No
+11408,Desktop,Returning,France,Direct,114,2,No,No
+11409,Desktop,Returning,Germany,Search,7,3,No,No
+11410,Desktop,Returning,United Kingdom,Search,208,5,Yes,No
+11411,Desktop,Returning,Germany,Discovery,28,1,No,No
+11412,Desktop,Returning,France,Search,53,2,No,No
+11413,Mobile,Returning,Germany,Discovery,34,3,No,No
+11414,Desktop,Returning,Other,Discovery,333,1,No,No
+11415,Desktop,New,Germany,Direct,316,0,No,No
+11416,Desktop,Returning,Netherlands,Discovery,244,1,No,No
+11417,Desktop,Returning,Netherlands,Search,193,2,No,No
+11418,Mobile,Returning,Other,Discovery,14,1,No,No
+11419,Desktop,Returning,Netherlands,Discovery,64,2,No,No
+11420,Mobile,Returning,France,Discovery,125,1,No,No
+11421,Mobile,Returning,France,Direct,62,4,No,No
+11422,Desktop,Returning,France,Search,394,2,No,No
+11423,Desktop,Returning,United Kingdom,Discovery,6,8,Yes,No
+11424,Mobile,Returning,France,Discovery,406,0,No,No
+11425,Desktop,Returning,Germany,Discovery,130,0,No,No
+11426,Mobile,Returning,Germany,Discovery,19,0,No,No
+11427,Desktop,Returning,Other,Discovery,149,0,No,No
+11428,Desktop,New,United Kingdom,Discovery,2,2,No,No
+11429,Desktop,Returning,Germany,Search,210,2,No,No
+11430,Mobile,New,Netherlands,Discovery,501,2,No,No
+11431,Desktop,Returning,Germany,Discovery,20,4,No,No
+11432,Desktop,Returning,Germany,Direct,588,3,No,No
+11433,Desktop,Returning,Germany,Direct,202,2,No,No
+11434,Desktop,Returning,Netherlands,Search,211,0,No,No
+11435,Desktop,Returning,Netherlands,Discovery,422,8,No,No
+11436,Desktop,Returning,United Kingdom,Direct,63,4,No,No
+11437,Desktop,New,Other,Search,36,4,No,No
+11438,Desktop,Returning,Germany,Direct,122,7,No,No
+11439,Mobile,Returning,Other,Search,22,4,No,No
+11440,Desktop,Returning,Germany,Search,298,4,No,No
+11441,Desktop,New,Other,Search,338,0,No,No
+11442,Desktop,Returning,France,Search,17,0,No,No
+11443,Desktop,Returning,Other,Search,9,2,Yes,No
+11444,Desktop,New,Germany,Search,25,1,No,No
+11445,Mobile,Returning,Netherlands,Discovery,284,0,No,No
+11446,Desktop,Returning,United Kingdom,Direct,109,0,No,No
+11447,Desktop,Returning,Netherlands,Discovery,167,0,No,No
+11448,Desktop,Returning,France,Discovery,59,1,No,No
+11449,Mobile,Returning,Netherlands,Direct,116,1,No,No
+11450,Desktop,New,Other,Discovery,129,0,No,No
+11451,Desktop,Returning,Germany,Discovery,388,3,Yes,No
+11452,Mobile,Returning,Germany,Discovery,414,0,No,No
+11453,Desktop,Returning,United Kingdom,Search,54,5,No,No
+11454,Desktop,Returning,Other,Search,294,2,No,No
+11455,Desktop,Returning,France,Direct,252,4,No,No
+11456,Desktop,Returning,France,Direct,99,2,No,No
+11457,Desktop,Returning,Germany,Direct,46,0,No,No
+11458,Desktop,Returning,Other,Discovery,217,5,No,No
+11459,Desktop,Returning,Other,Search,176,3,Yes,No
+11460,Desktop,Returning,Netherlands,Search,413,9,No,No
+11461,Desktop,Returning,France,Discovery,99,1,No,No
+11462,Desktop,Returning,Germany,Search,216,5,No,No
+11463,Desktop,New,Germany,Direct,158,10,No,No
+11464,Desktop,Returning,Other,Search,31,3,Yes,No
+11465,Desktop,Returning,Other,Discovery,187,0,No,No
+11466,Desktop,Returning,United Kingdom,Discovery,78,1,No,No
+11467,Desktop,Returning,France,Search,173,3,No,No
+11468,Mobile,Returning,Other,Search,178,5,No,No
+11469,Desktop,Returning,United Kingdom,Direct,544,3,No,No
+11470,Desktop,Returning,Netherlands,Search,392,4,No,No
+11471,Desktop,Returning,United Kingdom,Discovery,97,7,Yes,Yes
+11472,Desktop,New,United Kingdom,Discovery,86,8,No,No
+11473,Desktop,Returning,Other,Search,340,4,Yes,No
+11474,Desktop,Returning,Germany,Search,18,4,No,No
+11475,Desktop,Returning,Germany,Search,136,4,No,No
+11476,Desktop,Returning,Other,Discovery,430,7,Yes,No
+11477,Desktop,Returning,France,Discovery,54,0,No,No
+11478,Desktop,Returning,France,Discovery,163,1,Yes,No
+11479,Desktop,Returning,United Kingdom,Direct,113,2,No,No
+11480,Desktop,Returning,France,Direct,306,1,No,No
+11481,Desktop,Returning,Germany,Search,75,0,No,No
+11482,Desktop,Returning,France,Discovery,435,0,Yes,Yes
+11483,Desktop,Returning,France,Search,235,0,Yes,Yes
+11484,Desktop,Returning,France,Direct,2,9,No,No
+11485,Mobile,Returning,Netherlands,Discovery,307,4,No,No
+11486,Desktop,Returning,Other,Direct,119,1,No,No
+11487,Mobile,Returning,Other,Direct,382,5,No,No
+11488,Desktop,New,Netherlands,Discovery,36,1,No,No
+11489,Desktop,New,United Kingdom,Direct,576,0,No,No
+11490,Mobile,Returning,Germany,Discovery,338,1,No,No
+11491,Desktop,Returning,Other,Search,70,6,No,No
+11492,Desktop,New,Germany,Discovery,58,7,No,No
+11493,Desktop,Returning,Germany,Discovery,393,1,No,No
+11494,Desktop,New,Netherlands,Search,170,1,No,No
+11495,Desktop,New,United Kingdom,Direct,117,0,No,No
+11496,Desktop,New,Germany,Discovery,101,2,No,No
+11497,Desktop,Returning,Other,Discovery,17,1,Yes,No
+11498,Desktop,New,United Kingdom,Discovery,51,2,No,No
+11499,Mobile,Returning,Germany,Direct,470,7,No,No
+11500,Desktop,New,Germany,Discovery,166,6,No,No
+11501,Mobile,Returning,United Kingdom,Discovery,169,0,No,No
+11502,Desktop,Returning,Netherlands,Discovery,246,1,Yes,No
+11503,Mobile,Returning,Netherlands,Discovery,152,6,No,No
+11504,Mobile,Returning,France,Discovery,168,0,No,No
+11505,Desktop,Returning,United Kingdom,Direct,187,6,No,No
+11506,Desktop,Returning,Germany,Direct,224,0,No,No
+11507,Mobile,Returning,United Kingdom,Discovery,387,2,No,No
+11508,Desktop,Returning,Netherlands,Discovery,2,7,No,No
+11509,Desktop,Returning,Germany,Search,248,1,No,No
+11510,Desktop,Returning,United Kingdom,Discovery,167,0,No,No
+11511,Desktop,Returning,United Kingdom,Search,148,3,Yes,No
+11512,Desktop,Returning,United Kingdom,Search,401,2,No,No
+11513,Desktop,Returning,France,Search,188,7,No,No
+11514,Desktop,Returning,Other,Search,195,0,Yes,No
+11515,Desktop,Returning,Other,Direct,147,6,No,No
+11516,Mobile,Returning,Other,Search,0,1,No,No
+11517,Desktop,New,Netherlands,Direct,364,1,No,No
+11518,Desktop,Returning,United Kingdom,Discovery,240,4,No,No
+11519,Desktop,Returning,Other,Direct,85,4,No,No
+11520,Desktop,Returning,United Kingdom,Direct,25,1,Yes,Yes
+11521,Desktop,Returning,Germany,Direct,204,2,No,No
+11522,Desktop,Returning,France,Direct,689,3,No,No
+11523,Desktop,Returning,Other,Search,46,7,No,No
+11524,Desktop,Returning,Germany,Direct,88,4,No,No
+11525,Desktop,Returning,France,Discovery,148,1,No,No
+11526,Mobile,Returning,United Kingdom,Discovery,101,4,No,No
+11527,Desktop,New,Netherlands,Direct,17,1,No,No
+11528,Desktop,Returning,Netherlands,Discovery,324,1,No,No
+11529,Desktop,Returning,United Kingdom,Discovery,32,4,Yes,No
+11530,Desktop,Returning,France,Discovery,339,0,No,No
+11531,Desktop,Returning,Germany,Discovery,126,3,Yes,No
+11532,Mobile,Returning,Netherlands,Discovery,182,1,No,No
+11533,Mobile,Returning,United Kingdom,Discovery,187,1,No,No
+11534,Mobile,Returning,France,Discovery,44,2,No,No
+11535,Mobile,Returning,Netherlands,Discovery,186,0,No,No
+11536,Desktop,Returning,Other,Search,182,1,No,No
+11537,Mobile,New,France,Direct,477,2,No,No
+11538,Desktop,Returning,France,Direct,111,9,No,No
+11539,Desktop,Returning,Other,Discovery,151,1,No,No
+11540,Mobile,Returning,United Kingdom,Search,67,1,No,No
+11541,Mobile,New,Other,Search,131,4,No,No
+11542,Desktop,Returning,France,Search,65,3,No,No
+11543,Mobile,Returning,Other,Discovery,214,5,No,No
+11544,Desktop,Returning,United Kingdom,Search,128,1,No,No
+11545,Mobile,Returning,Other,Search,312,3,No,No
+11546,Mobile,Returning,Other,Search,27,0,No,No
+11547,Mobile,Returning,Netherlands,Discovery,31,0,No,No
+11548,Mobile,Returning,Netherlands,Direct,177,4,No,No
+11549,Desktop,Returning,France,Direct,165,2,No,No
+11550,Desktop,New,Other,Direct,670,2,No,No
+11551,Desktop,Returning,Germany,Discovery,292,2,No,No
+11552,Desktop,Returning,Germany,Discovery,136,1,Yes,Yes
+11553,Desktop,Returning,Netherlands,Discovery,84,1,No,No
+11554,Desktop,Returning,Netherlands,Discovery,443,4,Yes,Yes
+11555,Desktop,Returning,Germany,Direct,305,3,No,No
+11556,Desktop,Returning,Germany,Search,370,4,No,No
+11557,Mobile,New,Germany,Direct,313,4,No,No
+11558,Desktop,Returning,Germany,Direct,128,1,No,No
+11559,Desktop,Returning,France,Direct,109,0,No,No
+11560,Desktop,New,Netherlands,Search,20,1,No,No
+11561,Desktop,New,United Kingdom,Discovery,38,1,No,No
+11562,Desktop,New,Germany,Discovery,45,0,No,No
+11563,Mobile,New,Other,Direct,248,0,No,No
+11564,Desktop,Returning,United Kingdom,Search,56,0,No,No
+11565,Desktop,Returning,Germany,Search,87,4,Yes,No
+11566,Mobile,Returning,Netherlands,Direct,2,0,No,No
+11567,Desktop,Returning,France,Discovery,22,7,No,No
+11568,Desktop,Returning,France,Discovery,489,0,Yes,Yes
+11569,Mobile,Returning,Netherlands,Discovery,57,2,No,No
+11570,Desktop,Returning,Germany,Direct,121,0,No,No
+11571,Desktop,Returning,Netherlands,Discovery,183,1,No,No
+11572,Desktop,Returning,Other,Direct,202,2,No,No
+11573,Mobile,Returning,Germany,Direct,541,0,No,No
+11574,Desktop,Returning,Other,Discovery,149,6,Yes,Yes
+11575,Desktop,Returning,Germany,Search,19,2,Yes,No
+11576,Mobile,New,Other,Search,63,4,No,No
+11577,Desktop,Returning,France,Direct,182,5,No,No
+11578,Desktop,Returning,France,Search,2,7,No,No
+11579,Mobile,Returning,Germany,Direct,410,1,No,No
+11580,Desktop,Returning,United Kingdom,Search,206,1,Yes,No
+11581,Desktop,Returning,France,Discovery,239,1,No,No
+11582,Mobile,Returning,France,Discovery,495,3,No,No
+11583,Desktop,Returning,France,Search,229,4,No,No
+11584,Desktop,Returning,Netherlands,Discovery,30,2,No,No
+11585,Desktop,New,United Kingdom,Direct,104,1,No,No
+11586,Desktop,Returning,Germany,Search,93,2,Yes,No
+11587,Mobile,Returning,France,Discovery,84,10,No,No
+11588,Desktop,Returning,United Kingdom,Direct,8,3,No,No
+11589,Desktop,Returning,Netherlands,Direct,560,3,No,No
+11590,Mobile,Returning,United Kingdom,Discovery,44,1,No,No
+11591,Desktop,Returning,United Kingdom,Direct,244,1,No,No
+11592,Desktop,New,France,Search,440,7,No,No
+11593,Desktop,Returning,Other,Discovery,26,1,No,No
+11594,Desktop,Returning,Netherlands,Direct,96,8,No,No
+11595,Desktop,Returning,Netherlands,Direct,11,1,No,No
+11596,Desktop,New,Other,Discovery,0,3,No,No
+11597,Mobile,Returning,Netherlands,Discovery,75,2,No,No
+11598,Desktop,New,France,Search,655,2,No,No
+11599,Mobile,Returning,Germany,Discovery,1,2,No,No
+11600,Desktop,New,France,Direct,57,2,No,No
+11601,Mobile,Returning,Germany,Direct,294,1,No,No
+11602,Desktop,Returning,France,Search,399,0,No,No
+11603,Mobile,Returning,Netherlands,Discovery,8,1,No,No
+11604,Desktop,Returning,France,Search,110,0,No,No
+11605,Mobile,Returning,Germany,Search,22,2,No,No
+11606,Mobile,Returning,France,Discovery,6,2,No,No
+11607,Desktop,New,France,Direct,262,0,No,No
+11608,Desktop,Returning,Netherlands,Discovery,450,0,Yes,No
+11609,Desktop,Returning,Netherlands,Search,530,1,No,No
+11610,Desktop,Returning,Other,Direct,503,2,No,No
+11611,Mobile,New,Germany,Discovery,37,5,No,No
+11612,Desktop,Returning,Netherlands,Discovery,38,4,Yes,No
+11613,Mobile,Returning,Other,Discovery,296,5,No,No
+11614,Desktop,Returning,Other,Search,112,0,Yes,No
+11615,Desktop,Returning,Other,Direct,54,5,No,No
+11616,Mobile,Returning,Other,Discovery,299,7,No,No
+11617,Desktop,Returning,Germany,Search,187,9,No,No
+11618,Desktop,Returning,Germany,Direct,397,6,No,No
+11619,Desktop,Returning,France,Direct,52,6,No,No
+11620,Desktop,Returning,Other,Search,8,3,Yes,No
+11621,Mobile,Returning,France,Search,143,1,No,No
+11622,Desktop,Returning,United Kingdom,Direct,51,2,No,No
+11623,Desktop,Returning,Netherlands,Search,668,2,No,No
+11624,Mobile,Returning,United Kingdom,Search,216,0,No,No
+11625,Mobile,Returning,United Kingdom,Search,348,7,No,No
+11626,Mobile,Returning,Other,Search,158,4,No,No
+11627,Desktop,Returning,United Kingdom,Direct,93,0,No,No
+11628,Desktop,Returning,United Kingdom,Direct,333,8,No,No
+11629,Desktop,New,Other,Discovery,3,0,No,No
+11630,Mobile,Returning,France,Search,496,1,No,No
+11631,Desktop,Returning,Germany,Search,173,5,No,No
+11632,Desktop,Returning,Other,Search,465,4,No,No
+11633,Desktop,Returning,Other,Direct,182,5,No,No
+11634,Desktop,Returning,France,Direct,8,8,No,No
+11635,Mobile,Returning,Netherlands,Discovery,335,0,No,No
+11636,Desktop,Returning,Germany,Discovery,508,5,No,No
+11637,Desktop,New,France,Discovery,20,2,No,No
+11638,Desktop,Returning,France,Direct,31,3,No,No
+11639,Desktop,Returning,France,Discovery,145,1,Yes,Yes
+11640,Desktop,Returning,Other,Direct,118,8,No,No
+11641,Desktop,Returning,Germany,Direct,191,8,No,No
+11642,Desktop,Returning,France,Search,300,3,No,No
+11643,Mobile,Returning,Netherlands,Discovery,81,2,No,No
+11644,Desktop,Returning,United Kingdom,Discovery,40,1,No,No
+11645,Mobile,Returning,United Kingdom,Direct,103,0,No,No
+11646,Desktop,Returning,Germany,Direct,80,1,No,No
+11647,Mobile,Returning,United Kingdom,Search,103,5,No,No
+11648,Desktop,Returning,France,Discovery,300,0,No,No
+11649,Desktop,Returning,France,Discovery,46,3,No,No
+11650,Desktop,Returning,United Kingdom,Search,3,1,No,No
+11651,Desktop,Returning,Germany,Discovery,36,1,No,No
+11652,Mobile,Returning,United Kingdom,Direct,151,5,No,No
+11653,Desktop,Returning,France,Discovery,309,3,No,No
+11654,Desktop,Returning,Netherlands,Direct,232,7,No,No
+11655,Mobile,New,Netherlands,Discovery,457,0,No,No
+11656,Mobile,Returning,France,Discovery,189,4,No,No
+11657,Desktop,Returning,Other,Discovery,48,0,No,No
+11658,Desktop,Returning,United Kingdom,Discovery,315,0,No,No
+11659,Desktop,Returning,Other,Discovery,100,2,No,No
+11660,Desktop,Returning,Other,Direct,45,0,No,No
+11661,Desktop,Returning,Netherlands,Search,64,0,No,No
+11662,Desktop,Returning,Netherlands,Direct,78,3,No,No
+11663,Mobile,New,Other,Search,294,2,No,No
+11664,Desktop,Returning,Other,Search,236,2,No,No
+11665,Desktop,New,Other,Discovery,33,0,No,No
+11666,Desktop,Returning,United Kingdom,Discovery,46,3,Yes,No
+11667,Desktop,Returning,Other,Search,28,1,No,No
+11668,Mobile,New,Germany,Search,74,1,No,No
+11669,Desktop,Returning,France,Discovery,246,5,No,No
+11670,Mobile,Returning,Germany,Discovery,388,0,No,No
+11671,Mobile,New,Other,Search,296,3,No,No
+11672,Mobile,Returning,Germany,Direct,95,2,No,No
+11673,Desktop,Returning,France,Direct,257,3,No,No
+11674,Desktop,Returning,Other,Discovery,81,4,No,No
+11675,Desktop,Returning,United Kingdom,Direct,299,2,No,No
+11676,Mobile,Returning,Other,Search,10,1,No,No
+11677,Mobile,Returning,Germany,Discovery,173,1,No,No
+11678,Desktop,Returning,France,Search,122,0,No,No
+11679,Mobile,New,Germany,Discovery,11,3,No,No
+11680,Desktop,Returning,United Kingdom,Discovery,302,2,Yes,Yes
+11681,Desktop,Returning,France,Direct,34,0,No,No
+11682,Mobile,Returning,Netherlands,Direct,190,3,No,No
+11683,Desktop,Returning,France,Search,278,2,No,No
+11684,Mobile,Returning,Other,Search,4,0,No,No
+11685,Desktop,Returning,France,Search,226,0,Yes,Yes
+11686,Desktop,Returning,Other,Direct,296,5,No,No
+11687,Desktop,Returning,Netherlands,Discovery,343,3,No,No
+11688,Mobile,Returning,Germany,Direct,510,2,No,No
+11689,Mobile,Returning,Germany,Discovery,129,4,No,No
+11690,Desktop,Returning,Germany,Direct,167,7,No,No
+11691,Desktop,New,Germany,Search,234,3,No,No
+11692,Desktop,Returning,Netherlands,Discovery,50,5,No,No
+11693,Mobile,New,United Kingdom,Direct,114,1,No,No
+11694,Mobile,Returning,Netherlands,Direct,326,2,No,No
+11695,Desktop,Returning,Netherlands,Search,21,2,No,No
+11696,Desktop,Returning,Other,Search,137,1,No,No
+11697,Mobile,Returning,Other,Direct,145,1,No,No
+11698,Desktop,Returning,Germany,Discovery,160,3,No,No
+11699,Desktop,Returning,France,Discovery,79,8,No,No
+11700,Mobile,Returning,United Kingdom,Direct,404,1,No,No
+11701,Desktop,Returning,France,Direct,491,1,No,No
+11702,Desktop,Returning,Other,Search,661,1,No,No
+11703,Mobile,Returning,United Kingdom,Discovery,4,1,No,No
+11704,Desktop,Returning,United Kingdom,Discovery,27,1,Yes,Yes
+11705,Desktop,Returning,Other,Direct,367,0,No,No
+11706,Desktop,Returning,United Kingdom,Search,90,4,Yes,No
+11707,Desktop,Returning,United Kingdom,Discovery,156,3,Yes,No
+11708,Desktop,New,Other,Search,286,0,No,No
+11709,Desktop,Returning,France,Search,18,0,Yes,No
+11710,Desktop,New,Germany,Direct,465,8,No,No
+11711,Mobile,Returning,United Kingdom,Search,28,1,No,No
+11712,Desktop,Returning,Netherlands,Discovery,109,4,Yes,No
+11713,Desktop,Returning,United Kingdom,Search,63,6,No,No
+11714,Desktop,Returning,United Kingdom,Search,130,0,No,No
+11715,Desktop,Returning,Germany,Search,545,8,No,No
+11716,Desktop,Returning,Netherlands,Search,13,0,Yes,No
+11717,Desktop,Returning,United Kingdom,Direct,71,1,No,No
+11718,Desktop,New,France,Search,162,0,No,No
+11719,Desktop,Returning,France,Discovery,143,1,No,No
+11720,Desktop,Returning,Netherlands,Direct,150,2,No,No
+11721,Mobile,New,Netherlands,Search,89,2,No,No
+11722,Desktop,Returning,Other,Direct,52,2,No,No
+11723,Desktop,Returning,France,Search,21,6,No,No
+11724,Mobile,Returning,Other,Search,377,0,No,No
+11725,Desktop,Returning,United Kingdom,Discovery,62,0,No,No
+11726,Mobile,Returning,France,Search,289,4,No,No
+11727,Desktop,New,Other,Direct,173,1,No,No
+11728,Desktop,Returning,France,Discovery,272,1,Yes,Yes
+11729,Mobile,New,Germany,Search,198,2,No,No
+11730,Desktop,Returning,United Kingdom,Search,364,0,No,No
+11731,Desktop,Returning,Germany,Search,47,0,No,No
+11732,Desktop,Returning,Germany,Search,380,1,No,No
+11733,Desktop,Returning,Other,Discovery,3,0,No,No
+11734,Desktop,Returning,France,Search,70,0,No,No
+11735,Desktop,Returning,Other,Discovery,414,0,Yes,Yes
+11736,Mobile,Returning,Germany,Discovery,343,3,No,No
+11737,Desktop,Returning,Netherlands,Discovery,12,1,No,No
+11738,Desktop,Returning,United Kingdom,Search,274,2,No,No
+11739,Desktop,Returning,Other,Discovery,242,0,No,No
+11740,Mobile,New,United Kingdom,Direct,160,7,No,No
+11741,Desktop,Returning,United Kingdom,Discovery,567,0,No,No
+11742,Mobile,Returning,France,Direct,241,0,No,No
+11743,Desktop,Returning,Other,Direct,267,8,No,No
+11744,Mobile,Returning,France,Direct,243,1,No,No
+11745,Desktop,Returning,Netherlands,Direct,340,3,No,No
+11746,Mobile,Returning,Other,Discovery,248,3,No,No
+11747,Desktop,Returning,France,Discovery,96,6,No,No
+11748,Desktop,Returning,Netherlands,Direct,128,1,No,No
+11749,Mobile,Returning,Netherlands,Discovery,669,2,No,No
+11750,Mobile,Returning,United Kingdom,Direct,260,1,No,No
+11751,Mobile,Returning,France,Direct,109,1,No,No
+11752,Desktop,Returning,France,Discovery,325,8,No,No
+11753,Desktop,Returning,Other,Search,268,1,No,No
+11754,Desktop,Returning,Netherlands,Discovery,85,7,No,No
+11755,Desktop,New,Germany,Search,50,1,No,No
+11756,Mobile,Returning,France,Direct,112,1,No,No
+11757,Desktop,New,Germany,Discovery,146,1,No,No
+11758,Desktop,Returning,Other,Discovery,379,0,Yes,No
+11759,Mobile,Returning,Other,Search,171,0,No,No
+11760,Mobile,Returning,Netherlands,Search,279,1,No,No
+11761,Mobile,Returning,France,Search,88,0,No,No
+11762,Desktop,Returning,Netherlands,Discovery,30,2,No,No
+11763,Mobile,Returning,Germany,Search,65,0,No,No
+11764,Mobile,Returning,Germany,Direct,9,2,No,No
+11765,Desktop,Returning,Netherlands,Discovery,213,1,Yes,No
+11766,Mobile,Returning,France,Search,176,0,No,No
+11767,Desktop,Returning,Germany,Direct,363,5,No,No
+11768,Desktop,Returning,France,Discovery,317,0,No,No
+11769,Desktop,New,Other,Discovery,61,8,No,No
+11770,Mobile,Returning,United Kingdom,Search,565,1,No,No
+11771,Mobile,Returning,France,Direct,134,2,No,No
+11772,Desktop,Returning,Germany,Search,68,4,Yes,Yes
+11773,Desktop,Returning,Germany,Direct,262,5,No,No
+11774,Desktop,Returning,Netherlands,Direct,518,0,No,No
+11775,Desktop,Returning,France,Discovery,205,0,Yes,No
+11776,Mobile,Returning,Netherlands,Direct,40,0,No,No
+11777,Mobile,Returning,Other,Direct,229,3,No,No
+11778,Mobile,Returning,United Kingdom,Discovery,261,0,No,No
+11779,Desktop,New,Germany,Discovery,3,2,No,No
+11780,Desktop,New,Other,Discovery,330,1,No,No
+11781,Desktop,Returning,Netherlands,Direct,211,2,No,No
+11782,Desktop,Returning,France,Direct,628,6,No,No
+11783,Mobile,Returning,Germany,Direct,256,1,No,No
+11784,Desktop,Returning,Netherlands,Search,596,2,No,No
+11785,Desktop,Returning,France,Direct,536,0,No,No
+11786,Desktop,Returning,Germany,Direct,3,3,No,No
+11787,Mobile,Returning,Germany,Discovery,46,2,No,No
+11788,Desktop,Returning,United Kingdom,Direct,85,1,Yes,No
+11789,Mobile,New,Germany,Discovery,180,9,No,No
+11790,Desktop,Returning,France,Discovery,132,4,No,No
+11791,Desktop,Returning,Netherlands,Discovery,51,2,No,No
+11792,Desktop,Returning,France,Direct,112,0,No,No
+11793,Desktop,Returning,France,Discovery,244,2,No,No
+11794,Mobile,Returning,Germany,Search,254,1,No,No
+11795,Desktop,Returning,Other,Discovery,40,3,No,No
+11796,Desktop,Returning,Netherlands,Direct,2,1,No,No
+11797,Desktop,New,Germany,Discovery,73,1,No,No
+11798,Desktop,New,Germany,Discovery,135,0,No,No
+11799,Desktop,Returning,France,Discovery,294,4,No,No
+11800,Desktop,Returning,United Kingdom,Search,221,1,Yes,No
+11801,Desktop,Returning,France,Search,552,7,No,No
+11802,Mobile,Returning,Germany,Direct,191,3,No,No
+11803,Desktop,Returning,Germany,Direct,440,4,No,No
+11804,Desktop,Returning,France,Search,466,3,Yes,No
+11805,Mobile,Returning,Germany,Direct,72,9,No,No
+11806,Desktop,New,Other,Search,33,6,No,No
+11807,Mobile,Returning,Netherlands,Direct,210,0,No,No
+11808,Desktop,Returning,Netherlands,Search,212,8,Yes,No
+11809,Mobile,New,United Kingdom,Discovery,2,7,No,No
+11810,Mobile,Returning,France,Direct,158,0,No,No
+11811,Desktop,Returning,Germany,Direct,97,3,No,No
+11812,Desktop,Returning,United Kingdom,Direct,43,4,Yes,No
+11813,Desktop,Returning,Netherlands,Search,126,3,No,No
+11814,Desktop,Returning,United Kingdom,Direct,117,6,No,No
+11815,Mobile,Returning,Other,Direct,23,2,No,No
+11816,Desktop,Returning,Other,Direct,1,2,No,No
+11817,Mobile,Returning,Germany,Discovery,258,2,No,No
+11818,Mobile,Returning,France,Discovery,26,6,No,No
+11819,Desktop,Returning,France,Search,21,6,No,No
+11820,Desktop,Returning,Germany,Search,16,6,No,No
+11821,Desktop,Returning,France,Discovery,78,5,Yes,Yes
+11822,Mobile,Returning,Other,Direct,180,6,No,No
+11823,Mobile,Returning,Other,Search,347,3,No,No
+11824,Desktop,Returning,France,Direct,11,0,No,No
+11825,Desktop,Returning,Other,Direct,2,6,No,No
+11826,Mobile,Returning,Netherlands,Search,15,0,No,No
+11827,Desktop,Returning,France,Direct,223,3,No,No
+11828,Desktop,New,United Kingdom,Search,28,4,No,No
+11829,Mobile,Returning,France,Discovery,97,4,No,No
+11830,Mobile,Returning,Netherlands,Search,507,1,No,No
+11831,Mobile,Returning,Germany,Search,39,0,No,No
+11832,Desktop,Returning,Germany,Discovery,153,9,Yes,Yes
+11833,Desktop,Returning,France,Direct,204,4,No,No
+11834,Desktop,Returning,Netherlands,Direct,11,1,No,No
+11835,Desktop,New,Netherlands,Discovery,310,4,No,No
+11836,Desktop,Returning,France,Discovery,36,0,No,No
+11837,Mobile,Returning,France,Search,128,5,No,No
+11838,Desktop,Returning,Netherlands,Discovery,154,1,No,No
+11839,Mobile,Returning,Other,Search,226,0,No,No
+11840,Desktop,New,Other,Search,278,1,No,No
+11841,Desktop,New,United Kingdom,Discovery,93,0,No,No
+11842,Desktop,Returning,Netherlands,Search,356,2,No,No
+11843,Mobile,Returning,Germany,Direct,95,4,No,No
+11844,Desktop,Returning,Netherlands,Search,342,0,No,No
+11845,Desktop,Returning,Germany,Direct,31,3,No,No
+11846,Desktop,New,Netherlands,Discovery,118,1,No,No
+11847,Desktop,New,Germany,Direct,464,1,No,No
+11848,Desktop,New,Netherlands,Direct,382,0,No,No
+11849,Mobile,Returning,France,Discovery,111,2,No,No
+11850,Mobile,Returning,Netherlands,Search,396,1,No,No
+11851,Desktop,Returning,Netherlands,Direct,16,6,No,No
+11852,Desktop,Returning,Germany,Direct,205,1,No,No
+11853,Desktop,Returning,Germany,Search,124,2,No,No
+11854,Desktop,New,Netherlands,Discovery,140,4,No,No
+11855,Desktop,Returning,United Kingdom,Direct,7,0,No,No
+11856,Desktop,Returning,France,Direct,170,2,No,No
+11857,Mobile,Returning,Germany,Search,546,3,No,No
+11858,Mobile,Returning,Netherlands,Discovery,40,6,No,No
+11859,Mobile,Returning,Netherlands,Discovery,19,5,No,No
+11860,Desktop,Returning,France,Discovery,14,3,No,No
+11861,Desktop,Returning,France,Search,460,3,No,No
+11862,Mobile,Returning,Other,Direct,23,2,No,No
+11863,Desktop,Returning,Netherlands,Direct,407,4,No,No
+11864,Desktop,Returning,United Kingdom,Discovery,10,7,Yes,No
+11865,Mobile,Returning,France,Direct,626,7,No,No
+11866,Mobile,Returning,United Kingdom,Discovery,398,0,No,No
+11867,Mobile,Returning,Germany,Search,68,6,No,No
+11868,Desktop,Returning,Netherlands,Direct,671,2,No,No
+11869,Desktop,Returning,Netherlands,Direct,35,1,No,No
+11870,Desktop,Returning,Netherlands,Search,16,4,Yes,No
+11871,Desktop,Returning,United Kingdom,Search,6,4,Yes,No
+11872,Desktop,Returning,Germany,Direct,107,0,No,No
+11873,Desktop,Returning,Other,Discovery,595,1,No,No
+11874,Desktop,Returning,United Kingdom,Search,240,2,Yes,No
+11875,Desktop,Returning,France,Direct,99,4,No,No
+11876,Desktop,New,United Kingdom,Search,583,5,No,No
+11877,Mobile,Returning,Netherlands,Search,67,0,No,No
+11878,Mobile,Returning,France,Search,66,0,No,No
+11879,Desktop,New,France,Direct,459,8,No,No
+11880,Desktop,New,Netherlands,Search,14,1,No,No
+11881,Desktop,Returning,France,Direct,6,0,No,No
+11882,Mobile,Returning,Netherlands,Direct,81,2,No,No
+11883,Desktop,Returning,United Kingdom,Search,23,3,No,No
+11884,Desktop,Returning,Other,Search,347,3,Yes,No
+11885,Desktop,Returning,France,Discovery,264,2,No,No
+11886,Desktop,Returning,Netherlands,Search,317,2,No,No
+11887,Mobile,Returning,France,Search,93,1,No,No
+11888,Mobile,Returning,Netherlands,Discovery,503,0,No,No
+11889,Mobile,Returning,Other,Search,0,9,No,No
+11890,Desktop,New,France,Direct,13,0,No,No
+11891,Desktop,Returning,Germany,Direct,113,4,No,No
+11892,Desktop,Returning,Netherlands,Direct,33,0,No,No
+11893,Desktop,Returning,Netherlands,Discovery,457,0,No,No
+11894,Desktop,New,United Kingdom,Direct,254,1,No,No
+11895,Desktop,New,Germany,Direct,5,4,No,No
+11896,Desktop,Returning,Netherlands,Search,378,5,No,No
+11897,Desktop,Returning,Netherlands,Direct,176,1,No,No
+11898,Mobile,Returning,France,Direct,331,1,No,No
+11899,Desktop,New,Germany,Discovery,79,0,No,No
+11900,Mobile,Returning,Netherlands,Search,18,1,No,No
+11901,Desktop,Returning,United Kingdom,Discovery,390,1,No,No
+11902,Mobile,Returning,Netherlands,Direct,107,2,No,No
+11903,Mobile,Returning,Other,Search,432,7,No,No
+11904,Mobile,Returning,Other,Discovery,188,2,No,No
+11905,Mobile,Returning,Germany,Search,221,6,No,No
+11906,Mobile,Returning,Other,Discovery,107,1,No,No
+11907,Desktop,Returning,United Kingdom,Search,43,2,Yes,No
+11908,Mobile,New,France,Search,34,2,No,No
+11909,Desktop,Returning,United Kingdom,Direct,31,0,No,No
+11910,Desktop,Returning,France,Discovery,111,0,No,No
+11911,Mobile,Returning,Netherlands,Direct,270,0,No,No
+11912,Desktop,Returning,France,Search,306,6,No,No
+11913,Desktop,Returning,Germany,Direct,61,4,No,No
+11914,Desktop,Returning,Other,Discovery,106,4,Yes,No
+11915,Desktop,Returning,Other,Search,134,0,No,No
+11916,Desktop,Returning,Netherlands,Search,239,2,No,No
+11917,Desktop,Returning,France,Discovery,56,2,No,No
+11918,Mobile,Returning,United Kingdom,Direct,388,2,No,No
+11919,Desktop,Returning,United Kingdom,Discovery,21,4,Yes,No
+11920,Mobile,Returning,Other,Discovery,156,5,No,No
+11921,Mobile,Returning,France,Discovery,627,0,No,No
+11922,Desktop,Returning,Germany,Discovery,60,0,No,No
+11923,Mobile,Returning,France,Discovery,118,1,No,No
+11924,Desktop,Returning,France,Direct,518,3,No,No
+11925,Desktop,Returning,United Kingdom,Direct,120,0,Yes,Yes
+11926,Desktop,Returning,United Kingdom,Search,3,2,Yes,No
+11927,Desktop,New,Other,Discovery,264,6,No,No
+11928,Desktop,Returning,Other,Discovery,446,0,No,No
+11929,Mobile,Returning,United Kingdom,Search,18,1,No,No
+11930,Desktop,Returning,Netherlands,Discovery,142,3,No,No
+11931,Desktop,Returning,Germany,Discovery,292,6,Yes,No
+11932,Desktop,Returning,Netherlands,Discovery,255,0,Yes,No
+11933,Mobile,Returning,Netherlands,Discovery,57,2,No,No
+11934,Mobile,Returning,Netherlands,Discovery,35,1,No,No
+11935,Desktop,Returning,United Kingdom,Direct,452,3,No,No
+11936,Mobile,Returning,France,Search,74,1,No,No
+11937,Desktop,Returning,Other,Search,529,6,No,No
+11938,Desktop,Returning,Other,Discovery,375,3,No,No
+11939,Desktop,Returning,France,Direct,225,1,No,No
+11940,Desktop,Returning,United Kingdom,Discovery,35,5,Yes,No
+11941,Mobile,Returning,Other,Direct,127,4,No,No
+11942,Desktop,Returning,United Kingdom,Search,441,1,Yes,Yes
+11943,Desktop,New,United Kingdom,Direct,82,1,No,No
+11944,Mobile,Returning,France,Direct,91,1,No,No
+11945,Desktop,Returning,United Kingdom,Direct,112,4,No,No
+11946,Desktop,Returning,France,Direct,90,8,No,No
+11947,Desktop,Returning,Germany,Direct,354,4,No,No
+11948,Mobile,Returning,United Kingdom,Search,292,1,No,No
+11949,Mobile,Returning,Other,Search,67,2,No,No
+11950,Desktop,New,Germany,Discovery,434,3,No,No
+11951,Desktop,Returning,United Kingdom,Direct,52,2,No,No
+11952,Desktop,Returning,Other,Direct,518,4,No,No
+11953,Desktop,Returning,Germany,Direct,150,1,No,No
+11954,Desktop,Returning,Netherlands,Search,395,0,No,No
+11955,Desktop,Returning,United Kingdom,Search,47,2,No,No
+11956,Desktop,Returning,France,Discovery,48,7,No,No
+11957,Desktop,Returning,United Kingdom,Search,210,1,Yes,No
+11958,Desktop,Returning,Germany,Direct,14,4,No,No
+11959,Desktop,Returning,Germany,Discovery,476,1,Yes,No
+11960,Mobile,Returning,United Kingdom,Direct,8,2,No,No
+11961,Desktop,New,Netherlands,Discovery,405,1,No,No
+11962,Mobile,Returning,United Kingdom,Discovery,14,4,No,No
+11963,Desktop,Returning,France,Discovery,24,0,No,No
+11964,Mobile,Returning,United Kingdom,Direct,143,3,No,No
+11965,Mobile,Returning,France,Discovery,271,2,No,No
+11966,Mobile,Returning,Germany,Search,48,2,No,No
+11967,Desktop,Returning,United Kingdom,Search,60,0,No,No
+11968,Mobile,Returning,United Kingdom,Search,379,0,No,No
+11969,Mobile,Returning,Netherlands,Discovery,279,2,No,No
+11970,Mobile,Returning,Germany,Direct,66,0,No,No
+11971,Desktop,Returning,Germany,Direct,387,0,No,No
+11972,Desktop,Returning,Germany,Discovery,127,4,No,No
+11973,Mobile,Returning,Netherlands,Search,20,6,No,No
+11974,Desktop,Returning,Germany,Direct,534,2,No,No
+11975,Mobile,Returning,France,Search,22,0,No,No
+11976,Desktop,Returning,Germany,Discovery,567,4,Yes,No
+11977,Desktop,Returning,France,Search,268,7,No,No
+11978,Mobile,New,Other,Discovery,20,0,No,No
+11979,Mobile,Returning,Netherlands,Discovery,9,0,No,No
+11980,Desktop,Returning,France,Search,453,0,No,No
+11981,Desktop,Returning,United Kingdom,Discovery,274,8,No,No
+11982,Mobile,Returning,Germany,Search,98,1,No,No
+11983,Desktop,Returning,Other,Search,306,0,No,No
+11984,Desktop,Returning,France,Search,1,0,Yes,No
+11985,Desktop,Returning,United Kingdom,Direct,75,0,Yes,No
+11986,Desktop,New,France,Search,76,0,No,No
+11987,Desktop,Returning,France,Direct,224,1,No,No
+11988,Desktop,Returning,United Kingdom,Direct,138,0,No,No
+11989,Desktop,Returning,Other,Discovery,16,0,Yes,No
+11990,Desktop,Returning,France,Discovery,168,5,No,No
+11991,Mobile,Returning,Other,Discovery,74,3,No,No
+11992,Desktop,Returning,Other,Search,303,1,Yes,Yes
+11993,Desktop,Returning,Netherlands,Search,122,0,No,No
+11994,Desktop,New,Other,Direct,38,1,No,No
+11995,Desktop,Returning,Netherlands,Direct,42,4,No,No
+11996,Desktop,Returning,United Kingdom,Discovery,21,2,Yes,No
+11997,Desktop,Returning,Netherlands,Search,89,3,No,No
+11998,Desktop,Returning,Germany,Direct,118,0,No,No
+11999,Mobile,Returning,Other,Discovery,43,1,No,No
+12000,Mobile,Returning,United Kingdom,Search,482,0,No,No
